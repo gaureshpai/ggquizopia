@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gauresh/OneDrive/Documents/DS",
-      "program": "c:/Users/gauresh/OneDrive/Documents/DS/build/Debug/outDebug",
+      "cwd": "extension-output-ms-vscode.cpptools-#2-C",
+      "program": "extension-output-ms-vscode.cpptools-#2-C/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
