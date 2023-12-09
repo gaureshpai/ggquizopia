@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<stdio.h>/*wrong program*/
 void main()
 {
    int n,a[25][25],i,j,b[25][25],count,k,l,p,q;
