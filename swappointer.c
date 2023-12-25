@@ -1,5 +1,5 @@
 #include<stdio.h>
-voif swap(int *x,int *y){
+void swap(int *x,int *y){
     *x = *x+*y;
     *y = *x-*y;
     *x = *x-*y;
