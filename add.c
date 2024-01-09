@@ -4,6 +4,7 @@ int add(int x,int y)
     int Sum = x+y;
     return Sum;
 }
+
 int main(){
     int x,y;
     printf("Enter numbers:");
