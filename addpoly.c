@@ -23,9 +23,12 @@ void insertTerm(struct Term** poly, int coeff, int exp) {
     struct Term* newTerm = createTerm(coeff, exp);
     if (*poly == NULL) {
         *poly = newTerm;
-    } else {
+    } 
+    else 
+    {
         struct Term* temp = *poly;
-        while (temp->next != NULL) {
+        while (temp->next != NULL)
+        {
             temp = temp->next;
         }
         temp->next = newTerm;
@@ -34,10 +37,12 @@ void insertTerm(struct Term** poly, int coeff, int exp) {
 
 // Function to display a polynomial
 void displayPolynomial(struct Term* poly) {
-    while (poly != NULL) {
+    while (poly != NULL)
+    {
         printf("%dx^%d", poly->coefficient, poly->exponent);
         poly = poly->next;
-        if (poly != NULL) {
+        if (poly != NULL) 
+        {
             printf(" + ");
         }
     }
