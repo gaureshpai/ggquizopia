@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
 struct node
 {
     char ssn[25], name[25], dept[10], designation[25];
