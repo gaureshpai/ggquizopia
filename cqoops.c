@@ -106,20 +106,13 @@ int main() {
     enqueue(queue, 30);
     enqueue(queue, 40);
     enqueue(queue, 50);
-
     display(queue);
-
     dequeue(queue);
     dequeue(queue);
-
     display(queue);
-
     enqueue(queue, 60);
     enqueue(queue, 70);
-
     display(queue);
-
     freeCircularQueue(queue);
-
     return 0;
 }
