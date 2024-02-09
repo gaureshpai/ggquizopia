@@ -9,12 +9,13 @@ int prec(char);
 char infix[30], postfix[30], stack[30];
 int top = -1;
 
-void main() {
+int main() {
     printf("\nEnter the valid infix expression:\t");
     scanf("%s", infix);
     evaluate();
     printf("\nThe entered infix expression is:\n%s\n", infix);
     printf("\nThe corresponding postfix expression is:\n%s\n", postfix);
+    return 0;
 }
 
 void evaluate() {
