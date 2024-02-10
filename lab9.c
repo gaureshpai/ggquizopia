@@ -2,8 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 
-#define COMPARE(x, y) ((x == y) ? 0 : (x > y) ? 1 \
-                                              : -1)
+#define COMPARE(x, y) ((x == y) ? 0 : (x > y) ? 1 \ : -1)
 
 struct node
 {
@@ -21,7 +20,7 @@ NODE getnode()
     if (x == NULL)
     {
         printf("Running out of memory\n");
-        return NULL;
+        exit(0);
     }
     return x;
 }
@@ -94,16 +93,21 @@ int poly_evaluate(NODE head)
     }
     return sum;
 }
-NODE poly_sum(NODE head1, NODE head2, NODE head3) {
+
+NODE poly_sum(NODE head1, NODE head2, NODE head3)
+{
     NODE a, b;
     int coef;
 
     a = head1->link;
     b = head2->link;
 
-    while (a != head1 && b != head2) {
-        while (1) {
-            if (a->xexp == b->xexp && a->yexp == b->yexp && a->zexp == b->zexp) {
+    while (a != head1 && b != head2)
+    {
+        while (1)
+        {
+            if (a->xexp == b->xexp && a->yexp == b->yexp && a->zexp == b->zexp)
+            {
                 coef = a->coef + b->coef;
                 head3 = attach(coef, a->xexp, a->yexp, a->zexp, head3);
                 a = a->link;
@@ -111,159 +115,130 @@ NODE poly_sum(NODE head1, NODE head2, NODE head3) {
                 break;
             }
 
-            if (a->xexp != 0 || b->xexp != 0) {
-                switch (COMPARE(a->xexp, b->xexp)) {
-                    case -1:
-                        head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
-                        b = b->link;
-                        break;
-                    case 0:
-                        if (a->yexp > b->yexp) {
-                            head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
-                            a = a->link;
-                            break;
-                        } else if (a->yexp < b->yexp) {
-                            head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
-                            b = b->link;
-                            break;
-                        } else if (a->zexp > b->zexp) {
-                            head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
-                            a = a->link;
-                            break;
-                        } else if (a->zexp < b->zexp) {
-                            head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
-                            b = b->link;
-                            break;
-                        }
-                        break;
-                    case 1:
+            if (a->xexp != 0 || b->xexp != 0)
+            {
+                switch (COMPARE(a->xexp, b->xexp))
+                {
+                case -1:
+                    head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
+                    b = b->link;
+                    break;
+                case 0:
+                    if (a->yexp > b->yexp)
+                    {
                         head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
                         a = a->link;
                         break;
+                    }
+                    else if (a->yexp < b->yexp)
+                    {
+                        head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
+                        b = b->link;
+                        break;
+                    }
+                    else if (a->zexp > b->zexp)
+                    {
+                        head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
+                        a = a->link;
+                        break;
+                    }
+                    else if (a->zexp < b->zexp)
+                    {
+                        head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
+                        b = b->link;
+                        break;
+                    }
+                    break;
+                case 1:
+                    head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
+                    a = a->link;
+                    break;
                 }
                 break;
             }
 
-            if (a->yexp != 0 || b->yexp != 0) {
-                switch (COMPARE(a->yexp, b->yexp)) {
-                    case -1:
-                        head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
-                        b = b->link;
-                        break;
-                    case 0:
-                        if (a->zexp > b->zexp) {
-                            head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
-                            a = a->link;
-                            break;
-                        } else if (a->zexp < b->zexp) {
-                            head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
-                            b = b->link;
-                            break;
-                        }
-                        break;
-                    case 1:
+            if (a->yexp != 0 || b->yexp != 0)
+            {
+                switch (COMPARE(a->yexp, b->yexp))
+                {
+                case -1:
+                    head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
+                    b = b->link;
+                    break;
+                case 0:
+                    if (a->zexp > b->zexp)
+                    {
                         head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
                         a = a->link;
                         break;
+                    }
+                    else if (a->zexp < b->zexp)
+                    {
+                        head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
+                        b = b->link;
+                        break;
+                    }
+                    break;
+                case 1:
+                    head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
+                    a = a->link;
+                    break;
                 }
                 break;
             }
 
-            if (a->zexp != 0 || b->zexp != 0) {
-                switch (COMPARE(a->zexp, b->zexp)) {
-                    case -1:
-                        head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
-                        b = b->link;
-                        break;
-                    case 1:
-                        head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
-                        a = a->link;
-                        break;
+            if (a->zexp != 0 || b->zexp != 0)
+            {
+                switch (COMPARE(a->zexp, b->zexp))
+                {
+                case -1:
+                    head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
+                    b = b->link;
+                    break;
+                case 1:
+                    head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
+                    a = a->link;
+                    break;
                 }
                 break;
             }
         }
     }
 
-    while (a != head1) {
+    while (a != head1)
+    {
         head3 = attach(a->coef, a->xexp, a->yexp, a->zexp, head3);
         a = a->link;
     }
-void main() {
-    NODE head, head1, head2, head3;
-    int res, ch;
-    
-    // Creating nodes for the linked lists
-    head = getnode();    /* To hold the main linked list */
-    head1 = getnode();   /* To hold POLY1 */
-    head2 = getnode();   /* To hold POLY2 */
-    head3 = getnode();   /* To hold POLYSUM */
-    
-    // Initializing links in the linked lists
-    head->link = head;
-    head1->link = head1;
-    head2->link = head2;
-    head3->link = head3;
 
-    while (1) {
-        printf("\n~~~~ Menu ~~~~");
-        printf("\n1. Represent and Evaluate a Polynomial P(x, y, z)");
-        printf("\n2. Find the sum of two polynomials POLY1(x, y, z)");
-        printf("\n3. Exit");
-        printf("\nEnter your choice: ");
-        scanf("%d", &ch);
-
-        switch (ch) {
-            case 1:
-                printf("\n~~~~ Polynomial evaluation P(x, y, z) ~~~~\n");
-                head = read_poly(head);
-                printf("\nRepresentation of Polynomial for evaluation:\n");
-                display(head);
-                res = poly_evaluate(head);
-                printf("\nResult of polynomial evaluation is: %d\n", res);
-                break;
-            case 2:
-                printf("\nEnter the POLY1(x, y, z):\n");
-                head1 = read_poly(head1);
-                printf("\nPolynomial 1 is:\n");
-                display(head1);
-                printf("\nEnter the POLY2(x, y, z):\n");
-                head2 = read_poly(head2);
-                printf("\nPolynomial 2 is:\n");
-                display(head2);
-                printf("\nPolynomial addition result:\n");
-                head3 = poly_sum(head1, head2, head3);
-                display(head3);
-                break;
-            case 3:
-                exit(0);
-        }
-    }
-}
-    while (b != head2) {
+    while (b != head2)
+    {
         head3 = attach(b->coef, b->xexp, b->yexp, b->zexp, head3);
         b = b->link;
     }
 
     return head3;
 }
-void main() {
+
+int main()
+{
     NODE head, head1, head2, head3;
     int res, ch;
-    
+
     // Creating nodes for the linked lists
-    head = getnode();    /* To hold the main linked list */
-    head1 = getnode();   /* To hold POLY1 */
-    head2 = getnode();   /* To hold POLY2 */
-    head3 = getnode();   /* To hold POLYSUM */
-    
+    head = getnode();  /* To hold the main linked list */
+    head1 = getnode(); /* To hold POLY1 */
+    head2 = getnode(); /* To hold POLY2 */
+    head3 = getnode(); /* To hold POLYSUM */
+
     // Initializing links in the linked lists
     head->link = head;
     head1->link = head1;
     head2->link = head2;
     head3->link = head3;
 
-    while (1) {
+    while (1)
+    {
         printf("\n~~~~ Menu ~~~~");
         printf("\n1. Represent and Evaluate a Polynomial P(x, y, z)");
         printf("\n2. Find the sum of two polynomials POLY1(x, y, z)");
@@ -271,30 +246,32 @@ void main() {
         printf("\nEnter your choice: ");
         scanf("%d", &ch);
 
-        switch (ch) {
-            case 1:
-                printf("\n~~~~ Polynomial evaluation P(x, y, z) ~~~~\n");
-                head = read_poly(head);
-                printf("\nRepresentation of Polynomial for evaluation:\n");
-                display(head);
-                res = poly_evaluate(head);
-                printf("\nResult of polynomial evaluation is: %d\n", res);
-                break;
-            case 2:
-                printf("\nEnter the POLY1(x, y, z):\n");
-                head1 = read_poly(head1);
-                printf("\nPolynomial 1 is:\n");
-                display(head1);
-                printf("\nEnter the POLY2(x, y, z):\n");
-                head2 = read_poly(head2);
-                printf("\nPolynomial 2 is:\n");
-                display(head2);
-                printf("\nPolynomial addition result:\n");
-                head3 = poly_sum(head1, head2, head3);
-                display(head3);
-                break;
-            case 3:
-                exit(0);
+        switch (ch)
+        {
+        case 1:
+            printf("\n~~~~ Polynomial evaluation P(x, y, z) ~~~~\n");
+            head = read_poly(head);
+            printf("\nRepresentation of Polynomial for evaluation:\n");
+            display(head);
+            res = poly_evaluate(head);
+            printf("\nResult of polynomial evaluation is: %d\n", res);
+            break;
+        case 2:
+            printf("\nEnter the POLY1(x, y, z):\n");
+            head1 = read_poly(head1);
+            printf("\nPolynomial 1 is:\n");
+            display(head1);
+            printf("\nEnter the POLY2(x, y, z):\n");
+            head2 = read_poly(head2);
+            printf("\nPolynomial 2 is:\n");
+            display(head2);
+            printf("\nPolynomial addition result:\n");
+            head3 = poly_sum(head1, head2, head3);
+            display(head3);
+            break;
+        case 3:
+            exit(0);
         }
     }
+    return 0;
 }
