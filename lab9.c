@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <math.h>
 
-#define COMPARE(x, y) ((x == y) ? 0 : (x > y) ? 1 \ : -1)
+#define COMPARE(x, y) ((x == y) ? 0 : (x > y) ? 1 \
+                                                : -1)
 
 struct node
 {

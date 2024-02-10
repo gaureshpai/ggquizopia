@@ -17,13 +17,8 @@ NODE create()
     temp->lchild = NULL;
     temp->rchild = NULL;
     return temp;
+    
 }
-
-void insert(NODE root, NODE newnode);
-void inorder(NODE root);
-void preorder(NODE root);
-void postorder(NODE root);
-void search(NODE root);
 
 void insert(NODE root, NODE newnode)
 {

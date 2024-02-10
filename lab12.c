@@ -1,86 +1,97 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-int a[50][50], n, visited[50];
-int q[20], front = -1, rear = -1;
-int s[20], top = -1, count = 0;
-
-void bfs(int v)
+#define MAX 100
+int create(int num)
 {
-    int i, cur;
-    visited[v] = 1;
-    q[++rear] = v;
-    while (front != rear)
+    int key;
+    key = num % 100;
+    return key;
+}
+void linear_prob(int a[MAX], int key, int num)
+{
+    int flag, i, count = 0;
+    flag = 0;
+    if (a[key] == -1)
     {
-        cur = q[++front];
-        for (i = 1; i <= n; i++)
+        a[key] = num;
+    }
+    else
+    {
+        printf("\nCollision Detected...!!!\n");
+        i = 0;
+        while (i < MAX)
         {
-            if ((a[cur][i] == 1) && (visited[i] == 0))
+            if (a[i] != -1)
+                count++;
+            i++;
+        }
+        printf("Collision avoided successfully using LINEAR PROBING\n");
+        if (count == MAX)
+        {
+            printf("\n Hash table is full");
+            display(a);
+            exit(1);
+        }
+        for (i = key + 1; i < MAX; i++)
+            if (a[i] == -1)
             {
-                q[++rear] = i;
-                visited[i] = 1;
-                printf("->%d ", i);
+                a[i] = num;
+                flag = 1;
+                break;
             }
+        // for(i=0;i<key;i++)
+        i = 0;
+        while ((i < key) && (flag == 0))
+        {
+            if (a[i] == -1)
+            {
+                a[i] = num;
+                flag = 1;
+                break;
+            }
+            i++;
         }
     }
 }
-
-void dfs(int v)
+void display(int a[MAX])
 {
-    int i;
-    visited[v] = 1;
-    s[++top] = v;
-    for (i = 1; i <= n; i++)
+    int i, choice;
+    printf("1.Display ALL\n 2.Filtered Display\n");
+    scanf("%d", &choice);
+    if (choice == 1)
     {
-        if (a[v][i] == 1 && visited[i] == 0)
-        {
-            printf("->%d ", i);
-            dfs(i);
-        }
+        printf("\n the hash table is\n");
+        for (i = 0; i < MAX; i++)
+            printf("\n %d %d ", i, a[i]);
+    }
+    else
+    {
+        printf("\n the hash table is\n");
+        for (i = 0; i < MAX; i++)
+            if (a[i] != -1)
+            {
+                printf("\n %d %d ", i, a[i]);
+                continue;
+            }
     }
 }
-
-int main()
+void main()
 {
-
-    int ch, start, i, j;
-    printf("\nEnter the number of vertices in graph:  ");
-    scanf("%d", &n);
-    printf("\nEnter the adjacency matrix:\n");
-    for (i = 1; i <= n; i++)
+    int a[MAX], num, key, i;
+    int ans = 1;
+    printf(" collision handling by linear probing : \n");
+    for (i = 0; i < MAX; i++)
     {
-        for (j = 1; j <= n; j++)
-            scanf("%d", &a[i][j]);
+        a[i] = -1;
     }
-
-    for (i = 1; i <= n; i++)
-        visited[i] = 0;
-    printf("\nEnter the starting vertex: ");
-    scanf("%d", &start);
-    printf("\n==>1. BFS: Print all nodes reachable from a given starting node");
-    printf("\n==>2. DFS: Print all nodes reachable from a given starting node");
-    printf("\n==>3:Exit");
-    printf("\nEnter your choice: ");
-    scanf("%d", &ch);
-    switch (ch)
+    do
     {
-    case 1:
-        printf("\nNodes reachable from starting vertex %d are: ", start);
-        bfs(start);
-        for (i = 1; i <= n; i++)
-        {
-            if (visited[i] == 0)
-                printf("\nThe vertex that is not reachable is %d", i);
-        }
-        break;
-
-    case 2:
-        printf("\nNodes reachable from starting vertex %d are:\n", start);
-        dfs(start);
-        break;
-    case 3:
-        exit(0);
-    default:
-        printf("\nPlease enter valid choice:");
-    }
+        printf("\n Enter the data");
+        scanf("%4d", &num);
+        key = create(num);
+        linear_prob(a, key, num);
+        printf("\n Do you wish to continue ? (1/0) ");
+        scanf("%d", &ans);
+    } while (ans);
+    display(a);
 }
