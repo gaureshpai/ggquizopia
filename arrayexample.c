@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Function to allocate and initialize a 1D array
 int* createAndInitialize1DArray(int size) {
     int* arr = (int*)malloc(size * sizeof(int));
     if (arr == NULL) {
@@ -9,7 +8,6 @@ int* createAndInitialize1DArray(int size) {
         exit(EXIT_FAILURE);
     }
 
-    // Initialize array elements
     for (int i = 0; i < size; i++) {
         arr[i] = i + 1;
     }
@@ -17,7 +15,6 @@ int* createAndInitialize1DArray(int size) {
     return arr;
 }
 
-// Function to allocate and initialize a 2D array
 int** createAndInitialize2DArray(int rows, int cols) {
     int** arr = (int**)malloc(rows * sizeof(int*));
     if (arr == NULL) {
