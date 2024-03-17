@@ -2,8 +2,6 @@
 #include <stdlib.h>
 
 #define MAX_SIZE 5
-
-// Structure for the circular queue
 typedef struct {
     int front, rear;
     int capacity;
