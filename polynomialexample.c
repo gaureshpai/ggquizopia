@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//The worst program ever!!!
 // Structure to represent a term in a polynomial
 struct Term {
     int coefficient;
