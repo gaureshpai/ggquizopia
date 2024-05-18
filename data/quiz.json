@@ -2,129 +2,179 @@
   "data": [
     {
       "id": "GKfrCbCN5f",
-      "title": "What is the name of the Griffin family dog?",
-      "answers": ["Brian", "Stewie", "Meg", "Chris"],
-      "correct_answer": "Brian"
+      "title": "What is the name of Thor's hammer?",
+      "answers": [
+        "Mjolnir",
+        "Stormbreaker",
+        "Gungnir",
+        "Twilight Sword"
+      ],
+      "correct_answer": "Mjolnir"
     },
     {
       "id": "cQC0Y2Dmhu",
-      "title": "What is the name of Lois Griffin's father?",
+      "title": "What is the name of Tony Stark's AI assistant?",
       "answers": [
-        "Carter Pewterschmidt",
-        "Peter Griffin",
-        "Glenn Quagmire",
-        "Cleveland Brown"
+        "JARVIS",
+        "FRIDAY",
+        "SIRI",
+        "ULTRON"
       ],
-      "correct_answer": "Carter Pewterschmidt"
+      "correct_answer": "JARVIS"
     },
     {
       "id": "DFfAzImRk6",
-      "title": "What is the name of the town where the Griffin family lives?",
-      "answers": ["Quahog", "Springfield", "Simpsons", "Griffinville"],
-      "correct_answer": "Quahog"
+      "title": "What is the real name of the Black Panther?",
+      "answers": [
+        "T'Challa",
+        "M'Baku",
+        "N'Jadaka",
+        "Zuri"
+      ],
+      "correct_answer": "T'Challa"
     },
     {
       "id": "RY9qUoigEA",
-      "title": "What is the name of the bar where Peter, Joe, Quagmire, and Cleveland go to?",
+      "title": "What is the name of Peter Quill's alter ego?",
       "answers": [
-        "The Drunken Clam",
-        "The Griffin Tavern",
-        "The Quahog Pub",
-        "Patriot House"
+        "Star-Lord",
+        "Star-Fox",
+        "Star-Dust",
+        "Star-Man"
       ],
-      "correct_answer": "The Drunken Clam"
+      "correct_answer": "Star-Lord"
     },
     {
       "id": "qsLWiq531a",
-      "title": "What is the name of Stewie Griffin's teddy bear?",
-      "answers": ["Rupert", "Winston", "Barney", "Wally"],
-      "correct_answer": "Rupert"
+      "title": "What is the name of the planet where Thanos finds the Soul Stone?",
+      "answers": [
+        "Vormir",
+        "Titan",
+        "Knowhere",
+        "Xandar"
+      ],
+      "correct_answer": "Vormir"
     },
     {
       "id": "WbxoPIWfyk",
-      "title": "What is the name of the chicken who is Peter Griffin's nemesis?",
+      "title": "What is the name of the organization led by Nick Fury?",
       "answers": [
-        "Lois Griffin",
-        "Meg Griffin",
-        "Stewie Griffin",
-        "Ernie The Giant Chicken"
+        "SHIELD",
+        "HYDRA",
+        "SWORD",
+        "AIM"
       ],
-      "correct_answer": "Ernie The Giant Chicken"
+      "correct_answer": "SHIELD"
     },
     {
       "id": "MUfeMhv3n8",
-      "title": "What is the name of the news anchor on Channel 5?",
+      "title": "What is the name of the dimension Doctor Strange primarily draws his powers from?",
       "answers": [
-        "Tom Tucker",
-        "Diane Simmons",
-        "Peter Griffin",
-        "Stewie Griffin"
+        "Dark Dimension",
+        "Mirror Dimension",
+        "Quantum Realm",
+        "Dream Dimension"
       ],
-      "correct_answer": "Tom Tucker"
+      "correct_answer": "Dark Dimension"
     },
     {
       "id": "c2Ocp9ZvN2",
-      "title": "What is the name of the police officer who is Joe Swanson's partner?",
+      "title": "What is the real name of the Scarlet Witch?",
       "answers": [
-        "Brian Griffin",
-        "Stewie Griffin",
-        "Glenn Quagmire",
-        "Akira Yoshida"
+        "Wanda Maximoff",
+        "Natasha Romanoff",
+        "Carol Danvers",
+        "Jane Foster"
       ],
-      "correct_answer": "Akira Yoshida"
+      "correct_answer": "Wanda Maximoff"
     },
     {
       "id": "ypcGVPrhsg",
-      "title": "What is the name of the mall that the Griffin family frequently goes to?",
+      "title": "What is the name of the metal that makes up Captain America's shield?",
       "answers": [
-        "The Quahog Mall",
-        "The Springfield Mall",
-        "The Simpsons Mall",
-        "The Griffin Mall"
+        "Vibranium",
+        "Adamantium",
+        "Uru",
+        "Palladium"
       ],
-      "correct_answer": "The Quahog Mall"
+      "correct_answer": "Vibranium"
     },
     {
       "id": "gC3jrDwEYk",
-      "title": "Who does Stewie want to kill?",
-      "answers": ["Meg", "Chris", "Peter", "Lois"],
-      "correct_answer": "Lois"
+      "title": "What is the name of Ant-Man's mentor?",
+      "answers": [
+        "Hank Pym",
+        "Howard Stark",
+        "Erik Selvig",
+        "Phil Coulson"
+      ],
+      "correct_answer": "Hank Pym"
     },
     {
       "id": "csOEYs6zXn",
-      "title": "Where was Peter born?",
-      "answers": ["Mexico", "Canada", "United States", "Russia"],
-      "correct_answer": "Mexico"
+      "title": "What is the name of the city where the final battle takes place in 'Avengers: Endgame'?",
+      "answers": [
+        "New York",
+        "Wakanda",
+        "San Francisco",
+        "Upstate New York"
+      ],
+      "correct_answer": "Upstate New York"
     },
     {
       "id": "cyqZYE8DIK",
-      "title": "Which Family Guy character is obsessed with world domination?",
-      "answers": ["Meg", "Chris", "Stewie", "Brian"],
-      "correct_answer": "Stewie"
+      "title": "Which Marvel character is known for saying, 'I am Groot'?",
+      "answers": [
+        "Groot",
+        "Rocket",
+        "Drax",
+        "Gamora"
+      ],
+      "correct_answer": "Groot"
     },
     {
       "id": "CfQnf3lH56",
-      "title": "Who is the mayor of Quahog?",
-      "answers": ["Bill Bixby", "Adam West", "Lynda Carter", "Burt Ward"],
-      "correct_answer": "Adam West"
+      "title": "Who becomes the new Captain America at the end of 'Avengers: Endgame'?",
+      "answers": [
+        "Sam Wilson",
+        "Bucky Barnes",
+        "Clint Barton",
+        "Steve Rogers"
+      ],
+      "correct_answer": "Sam Wilson"
     },
     {
       "id": "e3dDjEEWl0",
-      "title": "Who founded the city of Quahog?",
-      "answers": ["Griffin Peterson", "Adam West", "Miles Musket", "A Frog"],
-      "correct_answer": "Griffin Peterson"
+      "title": "What is the name of the realm that Asgard is a part of?",
+      "answers": [
+        "Nine Realms",
+        "Seven Kingdoms",
+        "Twelve Territories",
+        "Eight Dimensions"
+      ],
+      "correct_answer": "Nine Realms"
     },
     {
       "id": "wKuUTrvMrF",
-      "title": "What did Peter change Meg's name to on her birth certificate?",
-      "answers": ["Megillah", "Megatron", "Megolavina", "Mega Millions"],
-      "correct_answer": "Megatron"
+      "title": "Who is the director of S.W.O.R.D. in 'WandaVision'?",
+      "answers": [
+        "Tyler Hayward",
+        "Maria Hill",
+        "Nick Fury",
+        "Maria Rambeau"
+      ],
+      "correct_answer": "Tyler Hayward"
     },
     {
       "id": "SlYDds3o7F",
-      "title": "Who burned The Drunken Clam to the ground?",
-      "answers": ["Peter", "Brian", "God", "Stewie"],
-      "correct_answer": "Peter"
+      "title": "Who is the villain in 'Doctor Strange'?",
+      "answers": [
+        "Kaecilius",
+        "Thanos",
+        "Loki",
+        "Dormammu"
+      ],
+      "correct_answer": "Kaecilius"
     }
   ]
 }
