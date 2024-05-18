@@ -20,7 +20,6 @@
       "character_id": 1,
       "quote": "Life is too short to not eat dessert first... and second... and third."
     },
-
     {
       "character_id": 2,
       "quote": "Victory is mine!"
@@ -203,7 +202,7 @@
     },
     {
       "character_id": 9,
-      "quote": "No, but why are you saying the dogs name before dads."
+      "quote": "No, but why are you saying the dog's name before dad's?"
     },
     {
       "character_id": 9,
@@ -243,7 +242,7 @@
     },
     {
       "character_id": 11,
-      "quote": "Your kid's got a walk in closet?! Two of mine gotta sleep in the car!"
+      "quote": "Your kid's got a walk-in closet?! Two of mine gotta sleep in the car!"
     },
     {
       "character_id": 12,
@@ -256,6 +255,14 @@
     {
       "character_id": 12,
       "quote": "I lost my home, my money, and perhaps just as serious, my wife left me!"
+    },
+    {
+      "character_id": 14,
+      "quote": "I have seen the rise and fall of civilizations, but nothing prepared me for the chaos of modern parenting."
+    },
+    {
+      "character_id": 14,
+      "quote": "The saga of fatherhood: once a king, now a chauffeur for a car full of soccer balls and juice boxes."
     },
     {
       "character_id": 16,
@@ -271,7 +278,7 @@
     },
     {
       "character_id": 16,
-      "quote": "Ma'am, I hate to be a nuisance but your son stopped kicking the back of my chair. "
+      "quote": "Ma'am, I hate to be a nuisance but your son stopped kicking the back of my chair."
     }
   ]
 }

@@ -4,7 +4,7 @@ GET http://localhost:3000/api/characters
 ###
 
 # ::: GET A CHARACTER 
-GET http://localhost:3000/api/characters/peter-griffin
+GET http://localhost:3000/api/characters/thor
 
 ###
 

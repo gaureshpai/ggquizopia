@@ -2,84 +2,84 @@
   "data": [
     {
       "id": "GKfrCbCN5f",
-      "title": "What is the name of Thor's hammer?",
+      "title": "Who wields the hammer Mjolnir?",
       "answers": [
-        "Mjolnir",
-        "Stormbreaker",
-        "Gungnir",
-        "Twilight Sword"
+        "Thor",
+        "Iron Man",
+        "Hulk",
+        "Captain America"
       ],
-      "correct_answer": "Mjolnir"
+      "correct_answer": "Thor"
     },
     {
       "id": "cQC0Y2Dmhu",
-      "title": "What is the name of Tony Stark's AI assistant?",
+      "title": "Who is also known as Iron Man?",
       "answers": [
-        "JARVIS",
-        "FRIDAY",
-        "SIRI",
-        "ULTRON"
+        "Tony Stark",
+        "Bruce Banner",
+        "Steve Rogers",
+        "Clint Barton"
       ],
-      "correct_answer": "JARVIS"
+      "correct_answer": "Tony Stark"
     },
     {
       "id": "DFfAzImRk6",
-      "title": "What is the real name of the Black Panther?",
+      "title": "Who is the Black Panther?",
       "answers": [
         "T'Challa",
-        "M'Baku",
-        "N'Jadaka",
-        "Zuri"
+        "Killmonger",
+        "Shuri",
+        "Okoye"
       ],
       "correct_answer": "T'Challa"
     },
     {
       "id": "RY9qUoigEA",
-      "title": "What is the name of Peter Quill's alter ego?",
+      "title": "Who is also known as Star-Lord?",
       "answers": [
-        "Star-Lord",
-        "Star-Fox",
-        "Star-Dust",
-        "Star-Man"
+        "Peter Quill",
+        "Rocket Raccoon",
+        "Drax",
+        "Groot"
       ],
-      "correct_answer": "Star-Lord"
+      "correct_answer": "Peter Quill"
     },
     {
       "id": "qsLWiq531a",
-      "title": "What is the name of the planet where Thanos finds the Soul Stone?",
+      "title": "Who seeks the Soul Stone on Vormir?",
       "answers": [
-        "Vormir",
-        "Titan",
-        "Knowhere",
-        "Xandar"
+        "Thanos",
+        "Red Skull",
+        "Gamora",
+        "Nebula"
       ],
-      "correct_answer": "Vormir"
+      "correct_answer": "Thanos"
     },
     {
       "id": "WbxoPIWfyk",
-      "title": "What is the name of the organization led by Nick Fury?",
+      "title": "Who leads the organization SHIELD?",
       "answers": [
-        "SHIELD",
-        "HYDRA",
-        "SWORD",
-        "AIM"
+        "Nick Fury",
+        "Phil Coulson",
+        "Maria Hill",
+        "Peggy Carter"
       ],
-      "correct_answer": "SHIELD"
+      "correct_answer": "Nick Fury"
     },
     {
       "id": "MUfeMhv3n8",
-      "title": "What is the name of the dimension Doctor Strange primarily draws his powers from?",
+      "title": "Who is the Sorcerer Supreme that draws powers from the Dark Dimension?",
       "answers": [
-        "Dark Dimension",
-        "Mirror Dimension",
-        "Quantum Realm",
-        "Dream Dimension"
+        "Doctor Strange",
+        "Wong",
+        "The Ancient One",
+        "Mordo"
       ],
-      "correct_answer": "Dark Dimension"
+      "correct_answer": "Doctor Strange"
     },
     {
       "id": "c2Ocp9ZvN2",
-      "title": "What is the real name of the Scarlet Witch?",
+      "title": "Who is also known as the Scarlet Witch?",
       "answers": [
         "Wanda Maximoff",
         "Natasha Romanoff",
@@ -90,18 +90,18 @@
     },
     {
       "id": "ypcGVPrhsg",
-      "title": "What is the name of the metal that makes up Captain America's shield?",
+      "title": "Who wields a shield made of Vibranium?",
       "answers": [
-        "Vibranium",
-        "Adamantium",
-        "Uru",
-        "Palladium"
+        "Captain America",
+        "Black Panther",
+        "Hawkeye",
+        "Falcon"
       ],
-      "correct_answer": "Vibranium"
+      "correct_answer": "Captain America"
     },
     {
       "id": "gC3jrDwEYk",
-      "title": "What is the name of Ant-Man's mentor?",
+      "title": "Who is Ant-Man's mentor?",
       "answers": [
         "Hank Pym",
         "Howard Stark",
@@ -112,14 +112,14 @@
     },
     {
       "id": "csOEYs6zXn",
-      "title": "What is the name of the city where the final battle takes place in 'Avengers: Endgame'?",
+      "title": "Who leads the Avengers in the final battle in 'Avengers: Endgame'?",
       "answers": [
-        "New York",
-        "Wakanda",
-        "San Francisco",
-        "Upstate New York"
+        "Captain America",
+        "Iron Man",
+        "Thor",
+        "Black Widow"
       ],
-      "correct_answer": "Upstate New York"
+      "correct_answer": "Black Widow"
     },
     {
       "id": "cyqZYE8DIK",
@@ -145,14 +145,14 @@
     },
     {
       "id": "e3dDjEEWl0",
-      "title": "What is the name of the realm that Asgard is a part of?",
+      "title": "Who is the king of Asgard?",
       "answers": [
-        "Nine Realms",
-        "Seven Kingdoms",
-        "Twelve Territories",
-        "Eight Dimensions"
+        "Thor",
+        "Loki",
+        "Odin",
+        "Hela"
       ],
-      "correct_answer": "Nine Realms"
+      "correct_answer": "Odin"
     },
     {
       "id": "wKuUTrvMrF",
