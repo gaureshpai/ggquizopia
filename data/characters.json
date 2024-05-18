@@ -1,0 +1,311 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "peter griffin",
+      "slug": "peter-griffin",
+      "skills": [
+        "Superhuman strength",
+        "Superhuman speed",
+        "Superhuman agility",
+        "Superhuman durability",
+        "Superhuman stamina",
+        "Superhuman endurance",
+        "Manipulation",
+        "Regeneration",
+        "Flatulence manipulation",
+        "Combat and fighting skills/prowess",
+        "Gravity aura",
+        "Marksmanship",
+        "Cartoon physics",
+        "Charisma",
+        "Biokinesis",
+        "Substance tolerance",
+        "Fourth wall-breaking",
+        "Broadway force",
+        "Teleportation",
+        "Cutaways",
+        "Mind penetration"
+      ],
+      "description": "Introducing Peter Griffin, the lovably absurd and hilariously clueless patriarch of the Griffin family from the animated sitcom Family Guy. Peter is a walking spectacle of comedic chaos, renowned for his unconventional antics and lack of filter. With a physique that defies both physics and fashion trends, he sports a prominent beer belly, a perpetual five o'clock shadow, and a grin that oozes mischief. Peter's trademark outfit consists of a white shirt, green pants, and a sense of humor that teeters on the edge of sanity.",
+      "age": "approximately in his 40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683833864/fcc-family-guys/peter/peter_qniww9.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683834164/fcc-family-guys/peter/peter-griffin-facts-730x456_pesfxs.png",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683834192/fcc-family-guys/peter/peter-griffin_x3zeka.png"
+      ],
+      "occupations": [
+        "Safety Inspector (formerly)",
+        "Brewery Worker",
+        "Various Odd Jobs"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "stewie griffin",
+      "slug": "stewie-griffin",
+      "skills": [
+        "Genius-level intellect",
+        "Exceptional physical abilities",
+        "Manipulation",
+        "Time travel",
+        "Firearms",
+        "Martial arts",
+        "Agility",
+        "Cunning",
+        "Cartoon physics",
+        "Hand-to-hand combat"
+      ],
+      "description": "Stewie Griffin is a highly intelligent and diabolically clever baby with a British accent. Despite his young age, Stewie possesses a dark and twisted sense of humor, often plotting elaborate schemes to eliminate his mother, Lois, or to conquer the world.",
+      "age": "1 year",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835740/fcc-family-guys/stewie/stewie_ligibl.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835731/fcc-family-guys/stewie/stewie-family-guy-fox-1085482_qxxhmu.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835733/fcc-family-guys/stewie/stewie-griffin-header_sbmpu7.avif"
+      ],
+      "occupations": ["Scientist Inventor"]
+    },
+    {
+      "id": 3,
+      "name": "lois griffin",
+      "slug": "lois-griffin",
+      "description": "Lois Griffin is the matriarch of the Griffin family. She is a loving and caring wife to Peter Griffin and a devoted mother to her children, Meg, Chris, and Stewie. Lois often finds herself balancing the chaotic antics of her family while trying to maintain a sense of order in their lives.",
+      "age": "Late 30s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683839731/fcc-family-guys/lois/lois_rwaiti.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683839726/fcc-family-guys/lois/SEI_138632406-3458_dcwzu3.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683839677/fcc-family-guys/lois/468852588_family-guy-1_1280_720_mxq2su.webp"
+      ],
+      "occupations": [
+        "Housewife",
+        "Piano Instructor",
+        "Journalist",
+        "Boxer",
+        "Retail Worker"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "meg griffin",
+      "slug": "meg-griffin",
+      "description": "Meg Griffin is the eldest daughter of the Griffin family. As a teenager, Meg often finds herself the target of ridicule and mistreatment, both at school and within her own family. Despite the constant challenges she faces, Meg maintains a resilient spirit and strives to find her place in the world.",
+      "age": "16 years",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683839583/fcc-family-guys/meg/meg_tfdwiq.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683839932/fcc-family-guys/meg/images_ycikcx.png",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683840043/fcc-family-guys/meg/LA7PMMm9pkPM46TvZeB7Y8-1200-80_dyrdfr.jpg"
+      ],
+      "occupations": ["High school student"]
+    },
+    {
+      "id": 5,
+      "name": "joe swanson",
+      "slug": "joe-swanson",
+      "description": "Introducing Joe Swanson, the resilient wheelchair-bound police officer from the animated sitcom Family Guy. Joe is a character who defies expectations and showcases the triumph of the human spirit. Despite facing the challenges of being paralyzed from the waist down, Joe's indomitable willpower and unwavering determination shine through in every aspect of his life. With his quick wit and sharp sense of humor, Joe proves that being a hero is not about physical abilities but about the strength of character.",
+      "age": "Late 40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683893909/fcc-family-guys/joe/joe_hpswnc.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683893882/fcc-family-guys/joe/Joe_Swanson_soundboard_g9qhys.png",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683893887/fcc-family-guys/joe/joe-swanson-from-family-guy_ovw9dh.jpg"
+      ],
+      "occupations": ["Police Officer", "Father", "Husband"]
+    },
+    {
+      "id": 6,
+      "name": "bonnie swanson",
+      "slug": "bonnie-swanson",
+      "description": "Introducing Bonnie Swanson, a beloved character from the animated sitcom Family Guy. Bonnie brings a touch of warmth and resilience to the vibrant community of Quahog. As a dedicated wife, nurturing mother, and loyal friend, Bonnie's presence adds depth and heart to the show's ensemble cast. Her unwavering determination and unwavering support for her loved ones make her an integral part of the fabric of the community, proving that strength comes in many forms.",
+      "age": "Late 30s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683894221/fcc-family-guys/bonnie/bonnie_egjud7.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894216/fcc-family-guys/bonnie/MV5BNjk1MGVhZDctMWYyZS00ZTQzLTk1MTEtYzAzOWVjZWQ1MWIwXkEyXkFqcGdeQXVyMjYwNDA2MDE_._V1__q4bhdj.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894166/fcc-family-guys/bonnie/dd8sdi6-60e303f1-9871-4642-a0b0-192353edbf21_hcsih0.png"
+      ],
+      "occupations": ["Stay-at-home Mom", "Supportive Spouse"]
+    },
+    {
+      "id": 7,
+      "name": "glenn quagmire",
+      "slug": "glenn-quagmire",
+      "skills": [
+        "Contaminated bodily fluids",
+        "Limited fighting skills",
+        "Master of seduction",
+        "Enhanced charisma",
+        "Highly skilled pilot",
+        "Very High flexibility",
+        "Manipulation"
+      ],
+      "description": "Glenn Quagmire, often referred to as just 'Quagmire,' is Peter's eccentric and wildly promiscuous neighbor. Known for his distinctive voice and catchphrase 'Giggity giggity goo,' Quagmire is always on the prowl for his next romantic conquest and is infamous for his outrageous and often inappropriate behavior.",
+      "age": "Late 40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683894304/fcc-family-guys/quagmire/quaqmire_javsub.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894743/fcc-family-guys/quagmire/k1h6a4qz-1920_bjbld4.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894897/fcc-family-guys/quagmire/qVoMBBzZMtiN5mAe8weLHG_lh9utx.jpg"
+      ],
+      "occupations": ["commercial airline pilot"]
+    },
+    {
+      "id": 8,
+      "name": "brian griffin",
+      "slug": "brian-griffin",
+      "skills": [
+        "High intelligence",
+        "Superior athleticism",
+        "Marksmanship",
+        "Weaponry usage",
+        "Expert tactician",
+        "Hand-to-hand combat",
+        "Multilingualism",
+        "Sharpshooting",
+        "Writing",
+        "Enhanced smelling",
+        "Enhanced hearing",
+        "Tracking instincts",
+        "Trash talk",
+        "Manipulation"
+      ],
+      "description": "Brian Griffin is the Griffin family's anthropomorphic pet dog and the voice of reason amidst the chaos. He is known for his intellectual pursuits, his love for martinis, and his wit. Brian often serves as the moral compass of the group and engages in various adventures and misadventures alongside the family.",
+      "age": "7 years (in dog years)",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835355/fcc-family-guys/brian/brian_p9ewsd.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835426/fcc-family-guys/brian/best-brian-griffin-quotes_hl7ncy.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835430/fcc-family-guys/brian/l-intro-1669128726_mtvlll.jpg"
+      ],
+      "occupations": ["Writer"]
+    },
+    {
+      "id": 9,
+      "name": "chris griffin",
+      "slug": "chris-griffin",
+      "description": "Chris Griffin is the lovable but dim-witted teenage son of Peter and Lois Griffin. Chris often finds himself unintentionally involved in absurd situations, making him a constant source of comedic moments in the show. Despite his lack of intelligence, Chris has a heart of gold and possesses a unique innocence that endears him to those around him.",
+      "age": "14 years",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895493/fcc-family-guys/chris/chris_qzisgb.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895641/fcc-family-guys/chris/9f72e811-1ec5-43b5-ba0b-b7488fce79a5_screenshot_z9hisi.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1684095660/fcc-family-guys/chris/Chris-Griffin.Family-Guy_hvzdxd.webp"
+      ],
+      "occupations": [
+        "High school student",
+        "Former paperboy Former",
+        "Supervisor of Quahog Mini-Mart Middle school student"
+      ]
+    },
+    {
+      "id": 10,
+      "name": "adam west",
+      "slug": "adam-west",
+      "description": "Adam West is a fictionalized version of the late actor himself, serving as the eccentric and quirky mayor of Quahog. Known for his bizarre and nonsensical behavior, Adam West adds a touch of hilarity to the show with his outrageous antics.",
+      "age": "Deceased",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895724/fcc-family-guys/adam/adam_eghkgo.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895832/fcc-family-guys/adam/3261321-screen_shot_2017-07-18_at_9.07.30_am_m1e56b.png",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895830/fcc-family-guys/adam/QzWH4xks3ughYw9rZhprAE_ipcnof.png"
+      ],
+      "occupations": ["Mayor"]
+    },
+    {
+      "id": 11,
+      "name": "cleveland brown",
+      "slug": "cleveland-brown",
+      "description": "Cleveland Brown is a mild-mannered and good-hearted friend of Peter Griffin. Known for his distinctive voice and calm demeanor, Cleveland is often the voice of reason among his group of friends. After leaving Quahog, he moved to Stoolbend and starred in his own spin-off show, 'The Cleveland Show.'",
+      "age": "Late 40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895954/fcc-family-guys/clevland/clevland_hix2eb.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896067/fcc-family-guys/clevland/007690_1268x713_639191_053_u0jmge.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896059/fcc-family-guys/clevland/Cleveland_aa3sa3.jpg"
+      ],
+      "occupations": ["Deli Owner", "Former Cable Guy"]
+    },
+    {
+      "id": 12,
+      "name": "carter pewterschmidt",
+      "slug": "carter-pewterschmidt",
+      "skills": [
+        "Wealth",
+        "Resources",
+        "Intelligence",
+        "Deception",
+        "Charisma",
+        "Intimidation"
+      ],
+      "description": "Carter Pewterschmidt is Lois Griffin's wealthy and controlling father. He is the CEO of Pewterschmidt Industries and is known for his arrogance and conservative beliefs. Despite his cold exterior, Carter occasionally shows moments of vulnerability and even bonds with Peter on rare occasions.",
+      "age": "Late 70s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683896233/fcc-family-guys/carter/carter_ca1cex.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896248/fcc-family-guys/carter/maxresdefault_uh6ov6.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896249/fcc-family-guys/carter/ea95d4ac245a9a2fca1003439e5831698a456fb3_00_wa7fz0.jpg"
+      ],
+      "occupations": ["CEO of Pewterschmidt Industries"]
+    },
+    {
+      "id": 13,
+      "name": "dr. elmer hartman",
+      "slug": "dr-elmer-hartman",
+      "description": "Dr. Elmer Hartman is the Griffin family's incompetent and often clueless physician. Despite his lack of medical expertise, he is always ready to offer his questionable advice and treatments. Dr. Hartman's character provides comedic relief with his outrageous and misguided medical practices.",
+      "age": "Late 40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683896780/fcc-family-guys/doctor/doctor_o1igzb.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1684095807/fcc-family-guys/doctor/7ba7d4d61c375ce681738c3f34c91fd92c2d139d_00_o1nxwh.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896809/fcc-family-guys/doctor/oqggjnjx85y61_dcfftq.jpg"
+      ],
+      "occupations": ["Medical Doctor"]
+    },
+    {
+      "id": 14,
+      "name": "ernie the giant chicken",
+      "slug": "ernie-the-giant-chicken",
+      "skills": [
+        "Superhuman strength",
+        "Superhuman durability",
+        "Superhuman speed",
+        "Adrenaline",
+        "Hand-to-hand combat",
+        "Cartoon physics",
+        "Regeneration",
+        "Immortality"
+      ],
+      "description": "Ernie The Giant Chicken is a recurring antagonist in Family Guy, known for his intense rivalry with Peter Griffin. Their clashes often escalate into epic and absurd fights that span over several episodes. Ernie is a formidable adversary, always seeking revenge on Peter for a long-forgotten disagreement.",
+      "age": "",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683896314/fcc-family-guys/chicken/chicken_bt2akm.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896683/fcc-family-guys/chicken/images_qwigpy.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896686/fcc-family-guys/chicken/maxresdefault_1_zyqv4m.jpg"
+      ],
+      "occupations": ["Peter Griffin's rival"]
+    },
+    {
+      "id": 15,
+      "name": "tom tucker",
+      "slug": "tom-tucker",
+      "description": "Tom Tucker is the charismatic and smooth-talking news anchor for the Quahog 5 News. He is known for his sensationalistic reporting style and his flirtatious personality. Tom takes his role as a news anchor very seriously, even if it means sacrificing journalistic integrity for ratings.",
+      "age": "40s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683897089/fcc-family-guys/tom/tom_rb8q76.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683897083/fcc-family-guys/tom/MV5BZDg4YWYwN2QtNDZlZi00MjI2LTk5M2MtNzliMjliNjc2MWI0XkEyXkFqcGdeQXVyMjYwNDA2MDE_._V1__b4axte.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683897014/fcc-family-guys/tom/Screenshot_2023-05-12_173945_xvogma.png"
+      ],
+      "occupations": ["News Anchor"]
+    },
+    {
+      "id": 16,
+      "name": "herbert",
+      "slug": "herbert",
+      "skills": [
+        "Charisma",
+        "Abnormal speed",
+        "Manipulation",
+        "hand-to-hand combat",
+        "Immortality"
+      ],
+      "description": "Herbert is an elderly neighbor of the Griffin family, often seen lurking around their neighborhood. He has a peculiar infatuation with young boys, particularly with Chris Griffin, and frequently tries to engage in inappropriate activities with him. Herbert's character adds a touch of dark humor and discomfort to the show.",
+      "age": "70s",
+      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683899070/fcc-family-guys/herbert/herbert_d5xzmp.png",
+      "images": [
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683899181/fcc-family-guys/herbert/MV5BYjY2ZjU4MWQtNWM0ZC00NTQxLWE1ZGMtYTAxZmQxZGNjNTEzXkEyXkFqcGdeQXVyNjMxNzQ2NTQ_._V1__d3z8fb.jpg",
+        "https://res.cloudinary.com/dakts9ect/image/upload/v1683899135/fcc-family-guys/herbert/maxresdefault_mhitnq.jpg"
+      ],
+      "occupations": ["Retired U.S. Army Veteran"]
+    }
+  ]
+}
