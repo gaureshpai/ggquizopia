@@ -18,8 +18,8 @@
       "age": "Thousands of years old",
       "avatar": "https://avatars.githubusercontent.com/u/82438870?v=4",
       "images": [
-        "./thor1.jpg",
-        "./thor2.webp"
+        "https://github.com/gaureshpai/ggquizopia/blob/main/data/Thanos1.jpg",
+        "https://github.com/gaureshpai/ggquizopia/blob/main/data/thor2.webp"
       ],
       "occupations": [
         "Protector of the Nine Realms"
@@ -42,8 +42,8 @@
       "age": "In his 40s",
       "avatar": "https://wellgroomedgentleman.com/wp-content/uploads/2023/10/Tony_Stark_Beard_with_Quiff_Hairstyle.width-800.jpg",
       "images": [
-        "./starc1.jpg",
-        "./starc2.jpg"
+        "starc1.jpg",
+        "starc2.jpg"
         ],
       "occupations": [
         "CEO of Stark Industries"
@@ -57,8 +57,8 @@
       "age": "30s",
       "avatar": "https://posterspy.com/wp-content/uploads/2021/07/Tchalla-Starlord.jpg",
       "images": [
-        "./tchalla1.webp",
-        "./tchalla2.jpg"
+        "tchalla1.webp",
+        "tchalla2.jpg"
       ],
       "occupations": [
         "King of Wakanda"
@@ -79,8 +79,8 @@
       "age": "30s",
       "avatar": "https://static.tvtropes.org/pmwiki/pub/images/pqstarlord.png",
       "images": [
-        "./peter1.jpeg",
-        "./peter2.jpeg"
+        "peter1.jpeg",
+        "peter2.jpeg"
       ],
       "occupations": [
         "Leader of the Guardians of the Galaxy"
@@ -102,8 +102,8 @@
       "age": "Unknown",
       "avatar":"https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Empire_March_Cover_IW_6_Textless.png/revision/latest?cb=20231024024627",
       "images": [
-        "./Thanos1.jpg",
-        "./thanos2.webp"
+        "Thanos1.jpg",
+        "thanos2.webp"
        ],
       "occupations": [
         "Cosmic Warlord"
@@ -117,8 +117,8 @@
       "age": "50s",
       "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e4/Nick_Fury_Profile.png/revision/latest?cb=20240120054822",
       "images": [
-        "./eye1.webp",
-        "./eye2,jpeg"
+        "eye1.webp",
+        "eye2,jpeg"
       ],
       "occupations": [
         "Director of S.H.I.E.L.D."
@@ -144,8 +144,8 @@
       "age": "40s",
       "avatar": "https://upload.wikimedia.org/wikipedia/en/1/18/Benedict_Cumberbatch_as_Doctor_Strange.jpeg",
       "images": [
-        "./dr1.jpg",
-        "./dr2.jpeg"
+        "dr1.jpg",
+        "dr2.jpeg"
       ],
       "occupations": [
         "Sorcerer Supreme"
@@ -159,8 +159,8 @@
       "age": "30s",
       "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/97/Scarlet_Witch.jpg/revision/latest?cb=20231021153444",
       "images": [
-        "./witch1.png",
-        "./witch2.webp"
+        "witch1.png",
+        "witch2.webp"
       ],
       "occupations": [
         "Avenger"
@@ -182,8 +182,8 @@
       "age": "100+ years (physically in his 30s)",
       "avatar": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg?w=300",
       "images": [
-        "./cap1,webp",
-        "./cap2.webp"
+        "cap1,webp",
+        "cap2.webp"
       ],
       "occupations": [
         "Avenger"
@@ -205,8 +205,8 @@
       "age": "70s",
       "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0e/Hank_Pym_Quantumania.jpg/revision/latest?cb=20231124223815",
       "images": [
-        "./hank1.jpeg",
-        "./hank2.jpeg"
+        "hank1.jpeg",
+        "hank2.jpeg"
       ],
       "occupations": [
         "Scientist"
@@ -228,8 +228,8 @@
       "age": "30s",
       "avatar": "https://cdn.marvel.com/content/1x/042_bluebayou_digital_keyart_teaser_r16_lg.jpg",
       "images": [
-        "./black1.webp",
-        "./black2.jpg"
+        "black1.webp",
+        "black2.jpg"
       ],
       "occupations": [
         "Avenger",
@@ -253,8 +253,8 @@
       "age": "Unknown",
       "avatar": "https://upload.wikimedia.org/wikipedia/en/1/17/I_am_Groot_vol_1.jpeg",
       "images": [
-        "./groot1.jpeg",
-        "./groot2.webp"
+        "groot1.jpeg",
+        "groot2.webp"
       ],
       "occupations": [
         "Guardian of the Galaxy"
@@ -268,8 +268,8 @@
       "age": "40s",
       "avatar": "https://static.wikia.nocookie.net/shipping/images/c/c7/Sam_Wilson.png/revision/latest?cb=20210427152307",
       "images": [
-        "./sam1.jpg",
-        "./sam2.jpeg"
+        "sam1.jpg",
+        "sam2.jpeg"
       ],
       "occupations": [
         "Avenger"
@@ -283,8 +283,8 @@
       "age": "Thousands of years old",
       "avatar": "https://static.wikia.nocookie.net/thor/images/5/58/Odin.png/revision/latest?cb=20150517135001",
       "images": [
-        "./odin1.jpeg",
-        "./odin2.jpeg"
+        "odin1.jpeg",
+        "odin2.jpeg"
       ],
       "occupations": [
         "King of Asgard",
@@ -300,8 +300,8 @@
       "age": "Late 40s",
       "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b6/Tyler_Hayward.png/revision/latest?cb=20230526194822",
       "images": [
-        "./tay1.jpg",
-        "./tay2.webp"
+        "tay1.jpg",
+        "tay2.webp"
       ],
       "occupations": [
         "Director of S.W.O.R.D."
@@ -323,8 +323,8 @@
       "age": "Unknown",
       "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f2/Kaecilius.png/revision/latest?cb=20231020202450",
       "images": [
-        "./kae1.jpeg",
-        "./kae2.webp"
+        "kae1.jpeg",
+        "kae2.webp"
       ],
       "occupations": [
         "Former Master of the Mystic Arts",

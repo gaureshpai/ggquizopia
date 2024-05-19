@@ -11,7 +11,8 @@ const nextConfig = {
       'upload.wikimedia.org',
       'res.cloudinary.com',
       'cdn.britannica.com',
-      'cdn.marvel.com'
+      'cdn.marvel.com',
+      'raw.githubusercontent.com'
     ],
     remotePatterns: [
       {
@@ -49,6 +50,10 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: '**.marvel.com',
+      },
+      {
+        protocol: 'https',
+        hostname: '**.raw.githubusercontent.com'
       }
     ]
   },
