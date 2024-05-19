@@ -16,10 +16,10 @@
       ],
       "description": "Thor, the God of Thunder, wields his mighty hammer Mjolnir to protect the realms from cosmic threats. With his godlike strength and command over lightning, Thor battles villains with unmatched ferocity and valor. As an immortal deity, he carries the weight of his responsibilities with unwavering resolve and valor, embodying the epitome of heroism across the Nine Realms.",
       "age": "Thousands of years old",
-      "avatar": "https://avatars.githubusercontent.com/u/82438870?v=4",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Thor.png",
       "images": [
-        "https://github.com/gaureshpai/ggquizopia/blob/main/data/Thanos1.jpg",
-        "https://github.com/gaureshpai/ggquizopia/blob/main/data/thor2.webp"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/thor1.jpg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/thor2.webp"
       ],
       "occupations": [
         "Protector of the Nine Realms"
@@ -40,10 +40,10 @@
       ],
       "description": "Tony Stark, the Genius Billionaire, is renowned for his brilliant mind and technological innovations. As the armored Avenger Iron Man, he defends the world from threats using his suit's arsenal of weapons and gadgets. With a strategic acumen matched only by his vast wealth, Tony fights for justice and innovation, leaving an indelible mark on the world as both a hero and a visionary.",
       "age": "In his 40s",
-      "avatar": "https://wellgroomedgentleman.com/wp-content/uploads/2023/10/Tony_Stark_Beard_with_Quiff_Hairstyle.width-800.jpg",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Starc.webp",
       "images": [
-        "starc1.jpg",
-        "starc2.jpg"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/starc1.jpg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/starc2.jpg"
         ],
       "occupations": [
         "CEO of Stark Industries"
@@ -55,10 +55,10 @@
       "slug": "tchalla",
       "description": "T'Challa, the noble Wakandan King, leads his nation with wisdom and strength. As the Black Panther, he defends Wakanda's advanced civilization from external threats while grappling with the challenges of leadership. With his indomitable spirit and mastery of the vibranium suit, T'Challa embodies the ideals of honor, duty, and tradition, ensuring Wakanda's prosperity and protection.",
       "age": "30s",
-      "avatar": "https://posterspy.com/wp-content/uploads/2021/07/Tchalla-Starlord.jpg",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Panther.jpg",
       "images": [
-        "tchalla1.webp",
-        "tchalla2.jpg"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/tchalla1.webp",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/tchalla2.jpg"
       ],
       "occupations": [
         "King of Wakanda"
@@ -77,10 +77,10 @@
       ],
       "description": "Peter Quill, known as Star-Lord, is a charming and roguish space adventurer. Leading the Guardians of the Galaxy, he navigates the cosmos with a mix of bravado and humor. Despite his rough exterior, Peter possesses a heart of gold, fighting for justice and camaraderie among the stars.",
       "age": "30s",
-      "avatar": "https://static.tvtropes.org/pmwiki/pub/images/pqstarlord.png",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/pqstarlord.webp",
       "images": [
-        "peter1.jpeg",
-        "peter2.jpeg"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/peter1.jpeg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/peter2.jpeg"
       ],
       "occupations": [
         "Leader of the Guardians of the Galaxy"
@@ -100,10 +100,10 @@
       ],
       "description": "Thanos, the Mad Titan, is a formidable cosmic warlord obsessed with balance and order. With his godlike strength and intellect, he seeks to reshape the universe in his image. Driven by a nihilistic philosophy, Thanos is willing to sacrifice anything to achieve his goals, making him one of the most dangerous beings in existence.",
       "age": "Unknown",
-      "avatar":"https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Empire_March_Cover_IW_6_Textless.png/revision/latest?cb=20231024024627",
+      "avatar":"https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Thanos.webp",
       "images": [
-        "Thanos1.jpg",
-        "thanos2.webp"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Thanos1.jpg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/thanos2.webp"
        ],
       "occupations": [
         "Cosmic Warlord"
@@ -115,10 +115,10 @@
       "slug": "nick-fury",
       "description": "Nick Fury is the cunning and enigmatic Director of S.H.I.E.L.D., a covert intelligence agency tasked with protecting the world from supernatural threats. With his strategic brilliance and no-nonsense attitude, Fury navigates the murky waters of espionage and intrigue, always staying one step ahead of his adversaries.",
       "age": "50s",
-      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e4/Nick_Fury_Profile.png/revision/latest?cb=20240120054822",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Fury.jpeg",
       "images": [
-        "eye1.webp",
-        "eye2,jpeg"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/eye1.webp",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/eye2.jpeg"
       ],
       "occupations": [
         "Director of S.H.I.E.L.D."
@@ -142,10 +142,10 @@
       ],
       "description": "Doctor Strange, the Sorcerer Supreme, is a master of the mystic arts and defender of the fabric of reality. With his command over magic and ancient knowledge, he protects the Earth from mystical threats beyond comprehension. Driven by a sense of duty and sacrifice, Doctor Strange stands as a guardian against the darkness that lurks in the unseen realms.",
       "age": "40s",
-      "avatar": "https://upload.wikimedia.org/wikipedia/en/1/18/Benedict_Cumberbatch_as_Doctor_Strange.jpeg",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Dr.jpg",
       "images": [
-        "dr1.jpg",
-        "dr2.jpeg"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/dr1.jpg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/dr2.jpeg"
       ],
       "occupations": [
         "Sorcerer Supreme"
@@ -157,10 +157,10 @@
       "slug": "wanda-maximoff",
       "description": "Wanda Maximoff, also known as the Scarlet Witch, is a powerful mutant with reality-warping abilities. Haunted by her troubled past, she seeks redemption while grappling with the vastness of her powers. With her fierce determination and inner strength, Wanda battles against the forces of darkness, striving to find her place in a world that fears her gifts.",
       "age": "30s",
-      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/97/Scarlet_Witch.jpg/revision/latest?cb=20231021153444",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Witch.webp",
       "images": [
-        "witch1.png",
-        "witch2.webp"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/witch1.png",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/witch2.webp"
       ],
       "occupations": [
         "Avenger"
@@ -180,10 +180,10 @@
       ],
       "description": "Captain America, the Super Soldier, is a symbol of hope and resilience, embodying the ideals of patriotism and honor. Enhanced to the peak of human potential, he fights tirelessly for justice and freedom. With his indomitable spirit and unbreakable shield, Captain America inspires courage in the hearts of all who stand against tyranny.",
       "age": "100+ years (physically in his 30s)",
-      "avatar": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg?w=300",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Cap.jpg",
       "images": [
-        "cap1,webp",
-        "cap2.webp"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/cap1.webp",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/cap2.webp"
       ],
       "occupations": [
         "Avenger"
@@ -203,10 +203,10 @@
       ],
       "description": "Hank Pym, also known as Ant-Man, is a brilliant scientist and founding member of the Avengers. With his groundbreaking discovery of Pym Particles, he can shrink to the size of an ant while increasing his strength. Despite his troubled past, Hank uses his intellect and technology to fight alongside Earth's mightiest heroes, proving that even the smallest can make the biggest impact.",
       "age": "70s",
-      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0e/Hank_Pym_Quantumania.jpg/revision/latest?cb=20231124223815",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Hank.jpeg",
       "images": [
-        "hank1.jpeg",
-        "hank2.jpeg"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/hank1.jpeg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/hank2.jpeg"
       ],
       "occupations": [
         "Scientist"
@@ -226,10 +226,10 @@
       ],
       "description": "Natasha Romanoff, also known as Black Widow, is a highly skilled spy and assassin with a complex past. Trained from a young age in the Red Room, she honed her combat abilities and espionage skills to become one of the world's deadliest operatives. Despite her dark history, Natasha seeks redemption through her actions as an Avenger, fighting alongside her allies to protect the innocent and make amends for her past misdeeds.",
       "age": "30s",
-      "avatar": "https://cdn.marvel.com/content/1x/042_bluebayou_digital_keyart_teaser_r16_lg.jpg",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Black.jpg",
       "images": [
-        "black1.webp",
-        "black2.jpg"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/black1.webp",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/black2.jpg"
       ],
       "occupations": [
         "Avenger",
@@ -251,10 +251,10 @@
       ],
       "description": "Groot is a gentle giant and loyal member of the Guardians of the Galaxy. As a sentient tree-like creature, he possesses immense strength and the ability to regenerate from even the most severe injuries. Though his vocabulary is limited to the phrase 'I am Groot,' Groot's actions speak volumes, demonstrating bravery and selflessness in the face of danger.",
       "age": "Unknown",
-      "avatar": "https://upload.wikimedia.org/wikipedia/en/1/17/I_am_Groot_vol_1.jpeg",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Groot.jpeg",
       "images": [
-        "groot1.jpeg",
-        "groot2.webp"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/groot1.jpeg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/groot2.webp"
       ],
       "occupations": [
         "Guardian of the Galaxy"
@@ -266,10 +266,10 @@
       "slug": "sam-wilson",
       "description": "Sam Wilson, also known as Falcon, is a skilled aerialist and a trusted ally of Captain America. With his advanced winged suit and combat prowess, he soars through the skies to defend freedom and justice. Sam's unwavering loyalty and dedication make him a vital member of the Avengers, proving that heroes come in all shapes and sizes.",
       "age": "40s",
-      "avatar": "https://static.wikia.nocookie.net/shipping/images/c/c7/Sam_Wilson.png/revision/latest?cb=20210427152307",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Sam.webp",
       "images": [
-        "sam1.jpg",
-        "sam2.jpeg"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/sam1.jpg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/sam2.jpeg"
       ],
       "occupations": [
         "Avenger"
@@ -281,10 +281,10 @@
       "slug": "odin",
       "description": "Odin, the Allfather, is the ruler of Asgard and father of Thor. As the most powerful of the Asgardians, Odin commands respect and authority across the Nine Realms. With his wisdom and might, he maintains the balance of the cosmos and ensures the safety of his people. Despite his noble intentions, Odin's decisions often weigh heavily on his conscience as he navigates the complexities of ruling a kingdom steeped in tradition and myth.",
       "age": "Thousands of years old",
-      "avatar": "https://static.wikia.nocookie.net/thor/images/5/58/Odin.png/revision/latest?cb=20150517135001",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Odin.jpg",
       "images": [
-        "odin1.jpeg",
-        "odin2.jpeg"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/odin1.jpeg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/odin2.jpeg"
       ],
       "occupations": [
         "King of Asgard",
@@ -298,10 +298,10 @@
       "slug": "tyler-hayward",
       "description": "Tyler Hayward is the Director of S.W.O.R.D. (Sentient Weapon Observation and Response Division), a government agency tasked with dealing with extraterrestrial threats. He is known for his pragmatic and sometimes ruthless approach to handling dangerous situations, often putting the organization's interests above all else.",
       "age": "Late 40s",
-      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b6/Tyler_Hayward.png/revision/latest?cb=20230526194822",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Tyler.webp",
       "images": [
-        "tay1.jpg",
-        "tay2.webp"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/tay1.jpg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/tay2.webp"
       ],
       "occupations": [
         "Director of S.W.O.R.D."
@@ -321,10 +321,10 @@
       ],
       "description": "Kaecilius is a formidable sorcerer and former member of the Masters of the Mystic Arts. Seduced by the promise of forbidden knowledge, he turned against his former allies to serve the dark entity known as Dormammu. With his mastery of dark magic and manipulation of mystical energies, Kaecilius seeks to unravel the fabric of reality itself, posing a dire threat to both Earth and the realms beyond.",
       "age": "Unknown",
-      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f2/Kaecilius.png/revision/latest?cb=20231020202450",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Kaecilius.webp",
       "images": [
-        "kae1.jpeg",
-        "kae2.webp"
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/kae1.jpeg",
+        "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/kae2.webp"
       ],
       "occupations": [
         "Former Master of the Mystic Arts",

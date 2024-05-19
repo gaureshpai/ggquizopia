@@ -12,7 +12,7 @@ const nextConfig = {
       'res.cloudinary.com',
       'cdn.britannica.com',
       'cdn.marvel.com',
-      'raw.githubusercontent.com'
+      'github.com'
     ],
     remotePatterns: [
       {
@@ -53,7 +53,7 @@ const nextConfig = {
       },
       {
         protocol: 'https',
-        hostname: '**.raw.githubusercontent.com'
+        hostname: '**.github.com'
       }
     ]
   },
