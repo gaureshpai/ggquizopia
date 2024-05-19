@@ -77,7 +77,7 @@
       ],
       "description": "Peter Quill, known as Star-Lord, is a charming and roguish space adventurer. Leading the Guardians of the Galaxy, he navigates the cosmos with a mix of bravado and humor. Despite his rough exterior, Peter possesses a heart of gold, fighting for justice and camaraderie among the stars.",
       "age": "30s",
-      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/pqstarlord.webp",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/pqstarlord.jpg",
       "images": [
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/peter1.jpeg",
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/peter2.jpeg"
@@ -100,7 +100,7 @@
       ],
       "description": "Thanos, the Mad Titan, is a formidable cosmic warlord obsessed with balance and order. With his godlike strength and intellect, he seeks to reshape the universe in his image. Driven by a nihilistic philosophy, Thanos is willing to sacrifice anything to achieve his goals, making him one of the most dangerous beings in existence.",
       "age": "Unknown",
-      "avatar":"https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Thanos.webp",
+      "avatar":"https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Thanos.jpg",
       "images": [
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Thanos1.jpg",
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/thanos2.webp"
@@ -115,7 +115,7 @@
       "slug": "nick-fury",
       "description": "Nick Fury is the cunning and enigmatic Director of S.H.I.E.L.D., a covert intelligence agency tasked with protecting the world from supernatural threats. With his strategic brilliance and no-nonsense attitude, Fury navigates the murky waters of espionage and intrigue, always staying one step ahead of his adversaries.",
       "age": "50s",
-      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Fury.jpeg",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Fury.jpg",
       "images": [
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/eye1.webp",
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/eye2.jpeg"
@@ -157,7 +157,7 @@
       "slug": "wanda-maximoff",
       "description": "Wanda Maximoff, also known as the Scarlet Witch, is a powerful mutant with reality-warping abilities. Haunted by her troubled past, she seeks redemption while grappling with the vastness of her powers. With her fierce determination and inner strength, Wanda battles against the forces of darkness, striving to find her place in a world that fears her gifts.",
       "age": "30s",
-      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Witch.webp",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Witch.jpg",
       "images": [
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/witch1.png",
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/witch2.webp"
@@ -203,7 +203,7 @@
       ],
       "description": "Hank Pym, also known as Ant-Man, is a brilliant scientist and founding member of the Avengers. With his groundbreaking discovery of Pym Particles, he can shrink to the size of an ant while increasing his strength. Despite his troubled past, Hank uses his intellect and technology to fight alongside Earth's mightiest heroes, proving that even the smallest can make the biggest impact.",
       "age": "70s",
-      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Hank.jpeg",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Hank.jpg",
       "images": [
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/hank1.jpeg",
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/hank2.jpeg"
@@ -226,7 +226,7 @@
       ],
       "description": "Natasha Romanoff, also known as Black Widow, is a highly skilled spy and assassin with a complex past. Trained from a young age in the Red Room, she honed her combat abilities and espionage skills to become one of the world's deadliest operatives. Despite her dark history, Natasha seeks redemption through her actions as an Avenger, fighting alongside her allies to protect the innocent and make amends for her past misdeeds.",
       "age": "30s",
-      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Black.jpg",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Blackie.jpg",
       "images": [
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/black1.webp",
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/black2.jpg"
@@ -266,7 +266,7 @@
       "slug": "sam-wilson",
       "description": "Sam Wilson, also known as Falcon, is a skilled aerialist and a trusted ally of Captain America. With his advanced winged suit and combat prowess, he soars through the skies to defend freedom and justice. Sam's unwavering loyalty and dedication make him a vital member of the Avengers, proving that heroes come in all shapes and sizes.",
       "age": "40s",
-      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Sam.webp",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Sam.jpeg",
       "images": [
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/sam1.jpg",
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/sam2.jpeg"
@@ -281,7 +281,7 @@
       "slug": "odin",
       "description": "Odin, the Allfather, is the ruler of Asgard and father of Thor. As the most powerful of the Asgardians, Odin commands respect and authority across the Nine Realms. With his wisdom and might, he maintains the balance of the cosmos and ensures the safety of his people. Despite his noble intentions, Odin's decisions often weigh heavily on his conscience as he navigates the complexities of ruling a kingdom steeped in tradition and myth.",
       "age": "Thousands of years old",
-      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Odin.jpg",
+      "avatar": "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/Odin.jpeg",
       "images": [
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/odin1.jpeg",
         "https://github.com/gaureshpai/ggquizopia/raw/main/public/images/odin2.jpeg"
