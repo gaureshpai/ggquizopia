@@ -4,7 +4,7 @@ Renders a Next.js page component that displays a grid of character avatars with 
 @component
 @returns {JSX.Element} The rendered page component.
 */
-
+import { SpeedInsights } from "@vercel/speed-insights/next"
 import { Container } from '@/components'
 import Image from 'next/image'
 import Link from 'next/link'
