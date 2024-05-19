@@ -175,6 +175,226 @@
         "Dormammu"
       ],
       "correct_answer": "Kaecilius"
+    },
+    {
+      "id": "F9scBsQs2E",
+      "title": "Who is known as the God of Mischief?",
+      "answers": [
+        "Loki",
+        "Thor",
+        "Odin",
+        "Hela"
+      ],
+      "correct_answer": "Loki"
+    },
+    {
+      "id": "Lzvtnh2qjP",
+      "title": "Who is known as the Winter Soldier?",
+      "answers": [
+        "Bucky Barnes",
+        "Sam Wilson",
+        "Clint Barton",
+        "Steve Rogers"
+      ],
+      "correct_answer": "Bucky Barnes"
+    },
+    {
+      "id": "HqUztY0uJw",
+      "title": "Who is the archenemy of Spider-Man?",
+      "answers": [
+        "Green Goblin",
+        "Venom",
+        "Doctor Octopus",
+        "Sandman"
+      ],
+      "correct_answer": "Green Goblin"
+    },
+    {
+      "id": "DrQwHz8f5N",
+      "title": "Who is the primary antagonist in 'Avengers: Infinity War'?",
+      "answers": [
+        "Thanos",
+        "Ultron",
+        "Loki",
+        "Ronan the Accuser"
+      ],
+      "correct_answer": "Thanos"
+    },
+    {
+      "id": "Gs9tBe6nN1",
+      "title": "Who is the strongest Avenger?",
+      "answers": [
+        "Hulk",
+        "Thor",
+        "Captain Marvel",
+        "Scarlet Witch"
+      ],
+      "correct_answer": "Hulk"
+    },
+    {
+      "id": "WkMvYb3d0Q",
+      "title": "Who is the founder of the X-Men?",
+      "answers": [
+        "Professor X",
+        "Magneto",
+        "Wolverine",
+        "Cyclops"
+      ],
+      "correct_answer": "Professor X"
+    },
+    {
+      "id": "E8uRjOp1Ls",
+      "title": "Who is the love interest of Tony Stark?",
+      "answers": [
+        "Pepper Potts",
+        "Natasha Romanoff",
+        "Carol Danvers",
+        "Jane Foster"
+      ],
+      "correct_answer": "Pepper Potts"
+    },
+    {
+      "id": "N5XvGF7n3k",
+      "title": "Who is the leader of the Guardians of the Galaxy?",
+      "answers": [
+        "Star-Lord",
+        "Rocket Raccoon",
+        "Groot",
+        "Drax"
+      ],
+      "correct_answer": "Star-Lord"
+    },
+    {
+      "id": "P3fVYa5rLc",
+      "title": "Who is known as the Thunderbolt Ross?",
+      "answers": [
+        "Red Hulk",
+        "Abomination",
+        "General Ross",
+        "Taskmaster"
+      ],
+      "correct_answer": "General Ross"
+    },
+    {
+      "id": "JvTmKx0Fy2",
+      "title": "Who is the primary villain in 'Captain America: The First Avenger'?",
+      "answers": [
+        "Red Skull",
+        "Baron Zemo",
+        "Crossbones",
+        "Arnim Zola"
+      ],
+      "correct_answer": "Red Skull"
+    },
+    {
+      "id": "Qv6NdtCb9R",
+      "title": "Who is known as the Norse God of Thunder?",
+      "answers": [
+        "Thor",
+        "Loki",
+        "Hela",
+        "Odin"
+      ],
+      "correct_answer": "Thor"
+    },
+    {
+      "id": "XlVqHbdD5A",
+      "title": "Who is the AI assistant of Tony Stark?",
+      "answers": [
+        "J.A.R.V.I.S.",
+        "F.R.I.D.A.Y.",
+        "Ultron",
+        "Vision"
+      ],
+      "correct_answer": "J.A.R.V.I.S."
+    },
+    {
+      "id": "R9XzHvnQpF",
+      "title": "Who is the love interest of Bruce Banner?",
+      "answers": [
+        "Betty Ross",
+        "Natasha Romanoff",
+        "Jane Foster",
+        "Pepper Potts"
+      ],
+      "correct_answer": "Betty Ross"
+    },
+    {
+      "id": "ZkSrL3cU7E",
+      "title": "Who is the main villain in 'Guardians of the Galaxy'?",
+      "answers": [
+        "Ronan the Accuser",
+        "Nebula",
+        "Yondu Udonta",
+        "Korath the Pursuer"
+      ],
+      "correct_answer": "Ronan the Accuser"
+    },
+    {
+      "id": "Jc1GhdXu7F",
+      "title": "Who is the creator of Ultron?",
+      "answers": [
+        "Hank Pym",
+        "Tony Stark",
+        "Bruce Banner",
+        "Reed Richards"
+      ],
+      "correct_answer": "Hank Pym"
+    },
+    {
+      "id": "ePfJghDz1F",
+      "title": "Who is known as the God of Thunder in the Marvel Cinematic Universe?",
+      "answers": [
+        "Thor",
+        "Loki",
+        "Hela",
+        "Odin"
+      ],
+      "correct_answer": "Thor"
+    },
+    {
+      "id": "rT9fFbCc5T",
+      "title": "Who is the primary antagonist in 'Captain America: Civil War'?",
+      "answers": [
+        "Helmut Zemo",
+        "Red Skull",
+        "Crossbones",
+        "Baron Strucker"
+      ],
+      "correct_answer": "Helmut Zemo"
+    },
+    {
+      "id": "QJf0AdPt6Y",
+      "title": "Who is the love interest of Steve Rogers?",
+      "answers": [
+        "Peggy Carter",
+        "Sharon Carter",
+        "Natasha Romanoff",
+        "Maria Hill"
+      ],
+      "correct_answer": "Peggy Carter"
+    },
+    {
+      "id": "Kq0DvBez1M",
+      "title": "Who is known as the deadliest woman in the galaxy?",
+      "answers": [
+        "Gamora",
+        "Nebula",
+        "Mantis",
+        "Shuri"
+      ],
+      "correct_answer": "Gamora"
+    },
+    {
+      "id": "YsKfNpEt2M",
+      "title": "Who is the leader of the Ravagers in 'Guardians of the Galaxy'?",
+      "answers": [
+        "Yondu Udonta",
+        "Kraglin Obfonteri",
+        "Stakar Ogord",
+        "Taserface"
+      ],
+      "correct_answer": "Yondu Udonta"
     }
   ]
 }

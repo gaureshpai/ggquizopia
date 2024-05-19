@@ -2,6 +2,174 @@
   "data": [
     {
       "character_id": 1,
+      "quote": "I am Thor, son of Odin and god of thunder!"
+    },
+    {
+      "character_id": 1,
+      "quote": "By the power of Mjolnir, I shall protect the realms!"
+    },
+    {
+      "character_id": 1,
+      "quote": "You cannot defeat the mighty Thor!"
+    },
+    {
+      "character_id": 1,
+      "quote": "I will bring thunder and lightning upon my enemies!"
+    },
+    {
+      "character_id": 1,
+      "quote": "The path of a hero is fraught with challenges, but I shall face them with courage!"
+    },
+    {
+      "character_id": 2,
+      "quote": "I am Iron Man. Genius, billionaire, playboy, philanthropist."
+    },
+    {
+      "character_id": 2,
+      "quote": "Sometimes you gotta run before you can walk."
+    },
+    {
+      "character_id": 2,
+      "quote": "I am Iron Man. The suit and I are one."
+    },
+    {
+      "character_id": 2,
+      "quote": "I've successfully privatized world peace."
+    },
+    {
+      "character_id": 2,
+      "quote": "Genius, billionaire, playboy, philanthropist. Did I miss anything?"
+    },
+    {
+      "character_id": 3,
+      "quote": "Wakanda forever!"
+    },
+    {
+      "character_id": 3,
+      "quote": "In times of crisis, a true king must rise to the occasion."
+    },
+    {
+      "character_id": 3,
+      "quote": "The strength of Wakanda lies not in its vibranium, but in its people."
+    },
+    {
+      "character_id": 3,
+      "quote": "I will defend my homeland with every fiber of my being."
+    },
+    {
+      "character_id": 3,
+      "quote": "My duty as king is to protect my people, no matter the cost."
+    },
+    {
+      "character_id": 4,
+      "quote": "I'm Star-Lord, man! Legendary outlaw?"
+    },
+    {
+      "character_id": 4,
+      "quote": "I am Groot."
+    },
+    {
+      "character_id": 4,
+      "quote": "Dance-off, bro! Me versus you!"
+    },
+    {
+      "character_id": 4,
+      "quote": "I have a plan. It's a really good plan. Believe me."
+    },
+    {
+      "character_id": 4,
+      "quote": "I may not be the smartest, but I'm definitely the coolest."
+    },
+    {
+      "character_id": 5,
+      "quote": "Dread it. Run from it. Destiny arrives all the same. And now, it's here. Or should I say, I am."
+    },
+    {
+      "character_id": 5,
+      "quote": "The hardest choices require the strongest wills."
+    },
+    {
+      "character_id": 5,
+      "quote": "I am inevitable."
+    },
+    {
+      "character_id": 5,
+      "quote": "The universe is finite, its resources, finite. If life is left unchecked, life will cease to exist. It needs correction."
+    },
+    {
+      "character_id": 5,
+      "quote": "I know what it's like to lose. To feel so desperately that you're right, yet to fail nonetheless. Dread it. Run from it. Destiny still arrives."
+    },
+    {
+      "character_id": 6,
+      "quote": "The world is full of heroes. But not all of them wear capes."
+    },
+    {
+      "character_id": 6,
+      "quote": "Sometimes, the hardest choices require the strongest wills."
+    },
+    {
+      "character_id": 6,
+      "quote": "I can't control their fear, only my own."
+    },
+    {
+      "character_id": 6,
+      "quote": "You cannot defeat me. I am the eye of the storm."
+    },
+    {
+      "character_id": 6,
+      "quote": "I see the future, and it terrifies me."
+    },
+    {
+      "character_id": 7,
+      "quote": "Forget everything that you think you know."
+    },
+    {
+      "character_id": 7,
+      "quote": "The bill comes due."
+    },
+    {
+      "character_id": 7,
+      "quote": "We're in the endgame now."
+    },
+    {
+      "character_id": 7,
+      "quote": "Time is more valuable than money."
+    },
+    {
+      "character_id": 7,
+      "quote": "The greatest threat to our universe is our universe."
+    },
+    {
+      "character_id": 8,
+      "quote": "I've always felt a connection to the chaos within."
+    },
+    {
+      "character_id": 8,
+      "quote": "No more pretending. No more illusions. Only reality."
+    },
+    {
+      "character_id": 8,
+      "quote": "I've learned to harness the power within me."
+    },
+    {
+      "character_id": 8,
+      "quote": "Chaos is my ally, not my enemy."
+    },
+    {
+      "character_id": 8,
+      "quote": "I am Wanda Maximoff. And I am not afraid."
+    },
+    {
+      "character_id": 9,
+      "quote": "I can do this all day."
+    },
+    {
+      "character_id": 9,
+      "quote": "I'm just a kid from Brooklyn."
+    },
+    {
+      "character_id": 1,
       "quote": "Lois, if I'm not back in five minutes... wait longer!"
     },
     {
@@ -279,6 +447,122 @@
     {
       "character_id": 16,
       "quote": "Ma'am, I hate to be a nuisance but your son stopped kicking the back of my chair."
+    },
+        {
+          "character_id": 9,
+          "quote": "I can do this all day."
+        },
+        {
+          "character_id": 9,
+          "quote": "The price of freedom is high, but it's a price I'm willing to pay."
+        },
+        {
+          "character_id": 9,
+          "quote": "I'm just a kid from Brooklyn."
+        },
+        {
+          "character_id": 9,
+          "quote": "I'm with you till the end of the line."
+        },
+        {
+          "character_id": 9,
+          "quote": "I'm not looking for forgiveness, and I'm way past asking permission."
+        },
+        {
+          "character_id": 10,
+          "quote": "The world sure seems different from down here."
+        },
+        {
+          "character_id": 10,
+          "quote": "We need a little less size and a little more urgency."
+        },
+        {
+          "character_id": 10,
+          "quote": "I've been a scientist for so long, I've forgotten what it's like to be a person."
+        },
+        {
+          "character_id": 10,
+          "quote": "Pym Particles, Stark. They're the building blocks of the future. They're the key to the quantum realm."
+        },
+        {
+          "character_id": 11,
+          "quote": "I've got red in my ledger. I'd like to wipe it out."
+        },
+        {
+          "character_id": 11,
+          "quote": "I've got a very specific skillset. I don't know if you've been in a fight before, but there's usually not this much talking."
+        },
+        {
+          "character_id": 11,
+          "quote": "I'm not a spy who's pretending to be a waitress. I'm a waitress."
+        },
+        {
+          "character_id": 11,
+          "quote": "It must be hard to shake the double agent thing. Do you even remember? It's like a dream."
+        },
+        {
+          "character_id": 12,
+          "quote": "I am Groot."
+        },
+        {
+          "character_id": 12,
+          "quote": "We are Groot."
+        },
+        {
+          "character_id": 12,
+          "quote": "I am Groot... again."
+        },
+        {
+          "character_id": 12,
+          "quote": "I am Groot! Stop!"
+        },
+        {
+          "character_id": 13,
+          "quote": "On your left."
+        },
+        {
+          "character_id": 13,
+          "quote": "I'm more than just a wingman."
+        },
+        {
+          "character_id": 13,
+          "quote": "I do what he does, just slower."
+        },
+        {
+          "character_id": 14,
+          "quote": "I am the Allfather."
+        },
+        {
+          "character_id": 14,
+          "quote": "A wise king never seeks out war, but he must always be ready for it."
+        },
+        {
+          "character_id": 14,
+          "quote": "Whoever holds this hammer, if he be worthy, shall possess the power of Thor."
+        },
+        {
+          "character_id": 15,
+          "quote": "We're not the heroes anymore. We're the enemy."
+        },
+        {
+          "character_id": 15,
+          "quote": "What happens when the Vision is turned back on?"
+        },
+        {
+          "character_id": 15,
+          "quote": "We don't have any weapons."
+        },
+        {
+          "character_id": 16,
+          "quote": "We never lose our demons, Mordo. We only learn to live above them."
+        },
+        {
+          "character_id": 16,
+          "quote": "The bill comes due. Always."
+        },
+        {
+          "character_id": 16,
+          "quote": "You're a man looking at the world through a keyhole. You've spent your life trying to widen it."
+        }
+      ]
     }
-  ]
-}
