@@ -55,9 +55,10 @@
       "slug": "tchalla",
       "description": "T'Challa, the noble Wakandan King, leads his nation with wisdom and strength. As the Black Panther, he defends Wakanda's advanced civilization from external threats while grappling with the challenges of leadership. With his indomitable spirit and mastery of the vibranium suit, T'Challa embodies the ideals of honor, duty, and tradition, ensuring Wakanda's prosperity and protection.",
       "age": "30s",
-      "avatar": "",
+      "avatar": "https://posterspy.com/wp-content/uploads/2021/07/Tchalla-Starlord.jpg",
       "images": [
-        
+        "./tchalla1.webp",
+        "./tchalla2.jpg"
       ],
       "occupations": [
         "King of Wakanda"
@@ -76,10 +77,10 @@
       ],
       "description": "Peter Quill, known as Star-Lord, is a charming and roguish space adventurer. Leading the Guardians of the Galaxy, he navigates the cosmos with a mix of bravado and humor. Despite his rough exterior, Peter possesses a heart of gold, fighting for justice and camaraderie among the stars.",
       "age": "30s",
-      "avatar": "",
+      "avatar": "https://static.tvtropes.org/pmwiki/pub/images/pqstarlord.png",
       "images": [
-        "",
-        ""
+        "./peter1.jpeg",
+        "./peter2.jpeg"
       ],
       "occupations": [
         "Leader of the Guardians of the Galaxy"
@@ -99,10 +100,10 @@
       ],
       "description": "Thanos, the Mad Titan, is a formidable cosmic warlord obsessed with balance and order. With his godlike strength and intellect, he seeks to reshape the universe in his image. Driven by a nihilistic philosophy, Thanos is willing to sacrifice anything to achieve his goals, making him one of the most dangerous beings in existence.",
       "age": "Unknown",
-      "avatar":"",
+      "avatar":"https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/52/Empire_March_Cover_IW_6_Textless.png/revision/latest?cb=20231024024627",
       "images": [
-        "",
-        ""
+        "./Thanos1.jpg",
+        "./thanos2.webp"
        ],
       "occupations": [
         "Cosmic Warlord"
@@ -114,10 +115,10 @@
       "slug": "nick-fury",
       "description": "Nick Fury is the cunning and enigmatic Director of S.H.I.E.L.D., a covert intelligence agency tasked with protecting the world from supernatural threats. With his strategic brilliance and no-nonsense attitude, Fury navigates the murky waters of espionage and intrigue, always staying one step ahead of his adversaries.",
       "age": "50s",
-      "avatar": "",
+      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/e/e4/Nick_Fury_Profile.png/revision/latest?cb=20240120054822",
       "images": [
-        "",
-        ""
+        "./eye1.webp",
+        "./eye2,jpeg"
       ],
       "occupations": [
         "Director of S.H.I.E.L.D."
@@ -141,10 +142,10 @@
       ],
       "description": "Doctor Strange, the Sorcerer Supreme, is a master of the mystic arts and defender of the fabric of reality. With his command over magic and ancient knowledge, he protects the Earth from mystical threats beyond comprehension. Driven by a sense of duty and sacrifice, Doctor Strange stands as a guardian against the darkness that lurks in the unseen realms.",
       "age": "40s",
-      "avatar": "",
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/1/18/Benedict_Cumberbatch_as_Doctor_Strange.jpeg",
       "images": [
-        "",
-        ""
+        "./dr1.jpg",
+        "./dr2.jpeg"
       ],
       "occupations": [
         "Sorcerer Supreme"
@@ -156,10 +157,10 @@
       "slug": "wanda-maximoff",
       "description": "Wanda Maximoff, also known as the Scarlet Witch, is a powerful mutant with reality-warping abilities. Haunted by her troubled past, she seeks redemption while grappling with the vastness of her powers. With her fierce determination and inner strength, Wanda battles against the forces of darkness, striving to find her place in a world that fears her gifts.",
       "age": "30s",
-      "avatar": "",
+      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/9/97/Scarlet_Witch.jpg/revision/latest?cb=20231021153444",
       "images": [
-        "",
-        ""
+        "./witch1.png",
+        "./witch2.webp"
       ],
       "occupations": [
         "Avenger"
@@ -179,10 +180,10 @@
       ],
       "description": "Captain America, the Super Soldier, is a symbol of hope and resilience, embodying the ideals of patriotism and honor. Enhanced to the peak of human potential, he fights tirelessly for justice and freedom. With his indomitable spirit and unbreakable shield, Captain America inspires courage in the hearts of all who stand against tyranny.",
       "age": "100+ years (physically in his 30s)",
-      "avatar": "",
+      "avatar": "https://cdn.britannica.com/30/182830-050-96F2ED76/Chris-Evans-title-character-Joe-Johnston-Captain.jpg?w=300",
       "images": [
-        "",
-        ""
+        "./cap1,webp",
+        "./cap2.webp"
       ],
       "occupations": [
         "Avenger"
@@ -202,10 +203,10 @@
       ],
       "description": "Hank Pym, also known as Ant-Man, is a brilliant scientist and founding member of the Avengers. With his groundbreaking discovery of Pym Particles, he can shrink to the size of an ant while increasing his strength. Despite his troubled past, Hank uses his intellect and technology to fight alongside Earth's mightiest heroes, proving that even the smallest can make the biggest impact.",
       "age": "70s",
-      "avatar": "",
+      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/0/0e/Hank_Pym_Quantumania.jpg/revision/latest?cb=20231124223815",
       "images": [
-        "",
-        ""
+        "./hank1.jpeg",
+        "./hank2.jpeg"
       ],
       "occupations": [
         "Scientist"
@@ -225,10 +226,10 @@
       ],
       "description": "Natasha Romanoff, also known as Black Widow, is a highly skilled spy and assassin with a complex past. Trained from a young age in the Red Room, she honed her combat abilities and espionage skills to become one of the world's deadliest operatives. Despite her dark history, Natasha seeks redemption through her actions as an Avenger, fighting alongside her allies to protect the innocent and make amends for her past misdeeds.",
       "age": "30s",
-      "avatar": "",
+      "avatar": "https://cdn.marvel.com/content/1x/042_bluebayou_digital_keyart_teaser_r16_lg.jpg",
       "images": [
-        "",
-        ""
+        "./black1.webp",
+        "./black2.jpg"
       ],
       "occupations": [
         "Avenger",
@@ -250,10 +251,10 @@
       ],
       "description": "Groot is a gentle giant and loyal member of the Guardians of the Galaxy. As a sentient tree-like creature, he possesses immense strength and the ability to regenerate from even the most severe injuries. Though his vocabulary is limited to the phrase 'I am Groot,' Groot's actions speak volumes, demonstrating bravery and selflessness in the face of danger.",
       "age": "Unknown",
-      "avatar": "",
+      "avatar": "https://upload.wikimedia.org/wikipedia/en/1/17/I_am_Groot_vol_1.jpeg",
       "images": [
-        "",
-        ""
+        "./groot1.jpeg",
+        "./groot2.webp"
       ],
       "occupations": [
         "Guardian of the Galaxy"
@@ -265,10 +266,10 @@
       "slug": "sam-wilson",
       "description": "Sam Wilson, also known as Falcon, is a skilled aerialist and a trusted ally of Captain America. With his advanced winged suit and combat prowess, he soars through the skies to defend freedom and justice. Sam's unwavering loyalty and dedication make him a vital member of the Avengers, proving that heroes come in all shapes and sizes.",
       "age": "40s",
-      "avatar": "",
+      "avatar": "https://static.wikia.nocookie.net/shipping/images/c/c7/Sam_Wilson.png/revision/latest?cb=20210427152307",
       "images": [
-        "",
-        ""
+        "./sam1.jpg",
+        "./sam2.jpeg"
       ],
       "occupations": [
         "Avenger"
@@ -280,10 +281,10 @@
       "slug": "odin",
       "description": "Odin, the Allfather, is the ruler of Asgard and father of Thor. As the most powerful of the Asgardians, Odin commands respect and authority across the Nine Realms. With his wisdom and might, he maintains the balance of the cosmos and ensures the safety of his people. Despite his noble intentions, Odin's decisions often weigh heavily on his conscience as he navigates the complexities of ruling a kingdom steeped in tradition and myth.",
       "age": "Thousands of years old",
-      "avatar": "",
+      "avatar": "https://static.wikia.nocookie.net/thor/images/5/58/Odin.png/revision/latest?cb=20150517135001",
       "images": [
-        "",
-        ""
+        "./odin1.jpeg",
+        "./odin2.jpeg"
       ],
       "occupations": [
         "King of Asgard",
@@ -297,10 +298,10 @@
       "slug": "tyler-hayward",
       "description": "Tyler Hayward is the Director of S.W.O.R.D. (Sentient Weapon Observation and Response Division), a government agency tasked with dealing with extraterrestrial threats. He is known for his pragmatic and sometimes ruthless approach to handling dangerous situations, often putting the organization's interests above all else.",
       "age": "Late 40s",
-      "avatar": "",
+      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/b/b6/Tyler_Hayward.png/revision/latest?cb=20230526194822",
       "images": [
-        "",
-        ""
+        "./tay1.jpg",
+        "./tay2.webp"
       ],
       "occupations": [
         "Director of S.W.O.R.D."
@@ -320,10 +321,10 @@
       ],
       "description": "Kaecilius is a formidable sorcerer and former member of the Masters of the Mystic Arts. Seduced by the promise of forbidden knowledge, he turned against his former allies to serve the dark entity known as Dormammu. With his mastery of dark magic and manipulation of mystical energies, Kaecilius seeks to unravel the fabric of reality itself, posing a dire threat to both Earth and the realms beyond.",
       "age": "Unknown",
-      "avatar": "",
+      "avatar": "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/f/f2/Kaecilius.png/revision/latest?cb=20231020202450",
       "images": [
-        "",
-        ""
+        "./kae1.jpeg",
+        "./kae2.webp"
       ],
       "occupations": [
         "Former Master of the Mystic Arts",
