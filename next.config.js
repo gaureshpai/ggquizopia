@@ -5,8 +5,8 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'res.cloudinary.com',
-      },
-    ],
+      },],
+    domains: ['avatars.githubusercontent.com', 'wellgroomedgentleman.com']
   },
 }
 

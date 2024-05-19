@@ -16,10 +16,10 @@
       ],
       "description": "Thor, the God of Thunder, wields his mighty hammer Mjolnir to protect the realms from cosmic threats. With his godlike strength and command over lightning, Thor battles villains with unmatched ferocity and valor. As an immortal deity, he carries the weight of his responsibilities with unwavering resolve and valor, embodying the epitome of heroism across the Nine Realms.",
       "age": "Thousands of years old",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683833864/fcc-family-guys/peter/peter_qniww9.png",
+      "avatar": "https://avatars.githubusercontent.com/u/82438870?v=4",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683834164/fcc-family-guys/peter/peter-griffin-facts-730x456_pesfxs.png",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683834192/fcc-family-guys/peter/peter-griffin_x3zeka.png"
+        "./thor1.jpg",
+        "./thor2.webp"
       ],
       "occupations": [
         "Protector of the Nine Realms"
@@ -40,11 +40,11 @@
       ],
       "description": "Tony Stark, the Genius Billionaire, is renowned for his brilliant mind and technological innovations. As the armored Avenger Iron Man, he defends the world from threats using his suit's arsenal of weapons and gadgets. With a strategic acumen matched only by his vast wealth, Tony fights for justice and innovation, leaving an indelible mark on the world as both a hero and a visionary.",
       "age": "In his 40s",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835740/fcc-family-guys/stewie/stewie_ligibl.png",
+      "avatar": "https://wellgroomedgentleman.com/wp-content/uploads/2023/10/Tony_Stark_Beard_with_Quiff_Hairstyle.width-800.jpg",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835731/fcc-family-guys/stewie/stewie-family-guy-fox-1085482_qxxhmu.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835733/fcc-family-guys/stewie/stewie-griffin-header_sbmpu7.avif"
-      ],
+        "./starc1.jpg",
+        "./starc2.jpg"
+        ],
       "occupations": [
         "CEO of Stark Industries"
       ]
@@ -55,10 +55,9 @@
       "slug": "tchalla",
       "description": "T'Challa, the noble Wakandan King, leads his nation with wisdom and strength. As the Black Panther, he defends Wakanda's advanced civilization from external threats while grappling with the challenges of leadership. With his indomitable spirit and mastery of the vibranium suit, T'Challa embodies the ideals of honor, duty, and tradition, ensuring Wakanda's prosperity and protection.",
       "age": "30s",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683839731/fcc-family-guys/lois/lois_rwaiti.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683839726/fcc-family-guys/lois/SEI_138632406-3458_dcwzu3.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683839677/fcc-family-guys/lois/468852588_family-guy-1_1280_720_mxq2su.webp"
+        
       ],
       "occupations": [
         "King of Wakanda"
@@ -77,10 +76,10 @@
       ],
       "description": "Peter Quill, known as Star-Lord, is a charming and roguish space adventurer. Leading the Guardians of the Galaxy, he navigates the cosmos with a mix of bravado and humor. Despite his rough exterior, Peter possesses a heart of gold, fighting for justice and camaraderie among the stars.",
       "age": "30s",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683839583/fcc-family-guys/meg/meg_tfdwiq.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683839932/fcc-family-guys/meg/images_ycikcx.png",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683840043/fcc-family-guys/meg/LA7PMMm9pkPM46TvZeB7Y8-1200-80_dyrdfr.jpg"
+        "",
+        ""
       ],
       "occupations": [
         "Leader of the Guardians of the Galaxy"
@@ -100,11 +99,11 @@
       ],
       "description": "Thanos, the Mad Titan, is a formidable cosmic warlord obsessed with balance and order. With his godlike strength and intellect, he seeks to reshape the universe in his image. Driven by a nihilistic philosophy, Thanos is willing to sacrifice anything to achieve his goals, making him one of the most dangerous beings in existence.",
       "age": "Unknown",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683893909/fcc-family-guys/joe/joe_hpswnc.png",
+      "avatar":"",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683893882/fcc-family-guys/joe/Joe_Swanson_soundboard_g9qhys.png",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683893887/fcc-family-guys/joe/joe-swanson-from-family-guy_ovw9dh.jpg"
-      ],
+        "",
+        ""
+       ],
       "occupations": [
         "Cosmic Warlord"
       ]
@@ -115,10 +114,10 @@
       "slug": "nick-fury",
       "description": "Nick Fury is the cunning and enigmatic Director of S.H.I.E.L.D., a covert intelligence agency tasked with protecting the world from supernatural threats. With his strategic brilliance and no-nonsense attitude, Fury navigates the murky waters of espionage and intrigue, always staying one step ahead of his adversaries.",
       "age": "50s",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683894221/fcc-family-guys/bonnie/bonnie_egjud7.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894216/fcc-family-guys/bonnie/MV5BNjk1MGVhZDctMWYyZS00ZTQzLTk1MTEtYzAzOWVjZWQ1MWIwXkEyXkFqcGdeQXVyMjYwNDA2MDE_._V1__q4bhdj.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894166/fcc-family-guys/bonnie/dd8sdi6-60e303f1-9871-4642-a0b0-192353edbf21_hcsih0.png"
+        "",
+        ""
       ],
       "occupations": [
         "Director of S.H.I.E.L.D."
@@ -142,10 +141,10 @@
       ],
       "description": "Doctor Strange, the Sorcerer Supreme, is a master of the mystic arts and defender of the fabric of reality. With his command over magic and ancient knowledge, he protects the Earth from mystical threats beyond comprehension. Driven by a sense of duty and sacrifice, Doctor Strange stands as a guardian against the darkness that lurks in the unseen realms.",
       "age": "40s",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683894304/fcc-family-guys/quagmire/quaqmire_javsub.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894743/fcc-family-guys/quagmire/k1h6a4qz-1920_bjbld4.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683894897/fcc-family-guys/quagmire/qVoMBBzZMtiN5mAe8weLHG_lh9utx.jpg"
+        "",
+        ""
       ],
       "occupations": [
         "Sorcerer Supreme"
@@ -157,10 +156,10 @@
       "slug": "wanda-maximoff",
       "description": "Wanda Maximoff, also known as the Scarlet Witch, is a powerful mutant with reality-warping abilities. Haunted by her troubled past, she seeks redemption while grappling with the vastness of her powers. With her fierce determination and inner strength, Wanda battles against the forces of darkness, striving to find her place in a world that fears her gifts.",
       "age": "30s",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835355/fcc-family-guys/brian/brian_p9ewsd.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835426/fcc-family-guys/brian/best-brian-griffin-quotes_hl7ncy.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835430/fcc-family-guys/brian/l-intro-1669128726_mtvlll.jpg"
+        "",
+        ""
       ],
       "occupations": [
         "Avenger"
@@ -180,10 +179,10 @@
       ],
       "description": "Captain America, the Super Soldier, is a symbol of hope and resilience, embodying the ideals of patriotism and honor. Enhanced to the peak of human potential, he fights tirelessly for justice and freedom. With his indomitable spirit and unbreakable shield, Captain America inspires courage in the hearts of all who stand against tyranny.",
       "age": "100+ years (physically in his 30s)",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895493/fcc-family-guys/chris/chris_qzisgb.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895641/fcc-family-guys/chris/9f72e811-1ec5-43b5-ba0b-b7488fce79a5_screenshot_z9hisi.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1684095660/fcc-family-guys/chris/Chris-Griffin.Family-Guy_hvzdxd.webp"
+        "",
+        ""
       ],
       "occupations": [
         "Avenger"
@@ -203,10 +202,10 @@
       ],
       "description": "Hank Pym, also known as Ant-Man, is a brilliant scientist and founding member of the Avengers. With his groundbreaking discovery of Pym Particles, he can shrink to the size of an ant while increasing his strength. Despite his troubled past, Hank uses his intellect and technology to fight alongside Earth's mightiest heroes, proving that even the smallest can make the biggest impact.",
       "age": "70s",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835430/fcc-family-guys/brian/l-intro-1669128726_mtvlll.jpg",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835355/fcc-family-guys/brian/brian_p9ewsd.png",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835426/fcc-family-guys/brian/best-brian-griffin-quotes_hl7ncy.jpg"
+        "",
+        ""
       ],
       "occupations": [
         "Scientist"
@@ -226,15 +225,15 @@
       ],
       "description": "Natasha Romanoff, also known as Black Widow, is a highly skilled spy and assassin with a complex past. Trained from a young age in the Red Room, she honed her combat abilities and espionage skills to become one of the world's deadliest operatives. Despite her dark history, Natasha seeks redemption through her actions as an Avenger, fighting alongside her allies to protect the innocent and make amends for her past misdeeds.",
       "age": "30s",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895493/fcc-family-guys/chris/chris_qzisgb.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895641/fcc-family-guys/chris/9f72e811-1ec5-43b5-ba0b-b7488fce79a5_screenshot_z9hisi.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1684095660/fcc-family-guys/chris/Chris-Griffin.Family-Guy_hvzdxd.webp"
+        "",
+        ""
       ],
       "occupations": [
-      "Avenger",
-      "Former KGB Agent",
-      "S.H.I.E.L.D. Operative"
+        "Avenger",
+        "Former KGB Agent",
+        "S.H.I.E.L.D. Operative"
       ]
     },
     {
@@ -251,10 +250,10 @@
       ],
       "description": "Groot is a gentle giant and loyal member of the Guardians of the Galaxy. As a sentient tree-like creature, he possesses immense strength and the ability to regenerate from even the most severe injuries. Though his vocabulary is limited to the phrase 'I am Groot,' Groot's actions speak volumes, demonstrating bravery and selflessness in the face of danger.",
       "age": "Unknown",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683896314/fcc-family-guys/chicken/chicken_bt2akm.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896683/fcc-family-guys/chicken/images_qwigpy.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896686/fcc-family-guys/chicken/maxresdefault_1_zyqv4m.jpg"
+        "",
+        ""
       ],
       "occupations": [
         "Guardian of the Galaxy"
@@ -266,10 +265,10 @@
       "slug": "sam-wilson",
       "description": "Sam Wilson, also known as Falcon, is a skilled aerialist and a trusted ally of Captain America. With his advanced winged suit and combat prowess, he soars through the skies to defend freedom and justice. Sam's unwavering loyalty and dedication make him a vital member of the Avengers, proving that heroes come in all shapes and sizes.",
       "age": "40s",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895954/fcc-family-guys/clevland/clevland_hix2eb.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896067/fcc-family-guys/clevland/007690_1268x713_639191_053_u0jmge.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683896059/fcc-family-guys/clevland/Cleveland_aa3sa3.jpg"
+        "",
+        ""
       ],
       "occupations": [
         "Avenger"
@@ -281,10 +280,10 @@
       "slug": "odin",
       "description": "Odin, the Allfather, is the ruler of Asgard and father of Thor. As the most powerful of the Asgardians, Odin commands respect and authority across the Nine Realms. With his wisdom and might, he maintains the balance of the cosmos and ensures the safety of his people. Despite his noble intentions, Odin's decisions often weigh heavily on his conscience as he navigates the complexities of ruling a kingdom steeped in tradition and myth.",
       "age": "Thousands of years old",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683895724/fcc-family-guys/adam/adam_eghkgo.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895832/fcc-family-guys/adam/3261321-screen_shot_2017-07-18_at_9.07.30_am_m1e56b.png",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683895830/fcc-family-guys/adam/QzWH4xks3ughYw9rZhprAE_ipcnof.png"
+        "",
+        ""
       ],
       "occupations": [
         "King of Asgard",
@@ -293,17 +292,19 @@
       ]
     },
     {
-    "id": 15,
-    "name": "Tyler Hayward",
-    "slug": "tyler-hayward",
-    "description": "Tyler Hayward is the Director of S.W.O.R.D. (Sentient Weapon Observation and Response Division), a government agency tasked with dealing with extraterrestrial threats. He is known for his pragmatic and sometimes ruthless approach to handling dangerous situations, often putting the organization's interests above all else.",
-    "age": "Late 40s",
-    "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683835731/fcc-family-guys/stewie/stewie-family-guy-fox-1085482_qxxhmu.jpg",
-    "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835731/fcc-family-guys/stewie/stewie-family-guy-fox-1085482_qxxhmu.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683835733/fcc-family-guys/stewie/stewie-griffin-header_sbmpu7.avif"
-    ],
-    "occupations": ["Director of S.W.O.R.D."]
+      "id": 15,
+      "name": "Tyler Hayward",
+      "slug": "tyler-hayward",
+      "description": "Tyler Hayward is the Director of S.W.O.R.D. (Sentient Weapon Observation and Response Division), a government agency tasked with dealing with extraterrestrial threats. He is known for his pragmatic and sometimes ruthless approach to handling dangerous situations, often putting the organization's interests above all else.",
+      "age": "Late 40s",
+      "avatar": "",
+      "images": [
+        "",
+        ""
+      ],
+      "occupations": [
+        "Director of S.W.O.R.D."
+      ]
     },
     {
       "id": 16,
@@ -319,10 +320,10 @@
       ],
       "description": "Kaecilius is a formidable sorcerer and former member of the Masters of the Mystic Arts. Seduced by the promise of forbidden knowledge, he turned against his former allies to serve the dark entity known as Dormammu. With his mastery of dark magic and manipulation of mystical energies, Kaecilius seeks to unravel the fabric of reality itself, posing a dire threat to both Earth and the realms beyond.",
       "age": "Unknown",
-      "avatar": "https://res.cloudinary.com/dakts9ect/image/upload/v1683899070/fcc-family-guys/herbert/herbert_d5xzmp.png",
+      "avatar": "",
       "images": [
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683899181/fcc-family-guys/herbert/MV5BYjY2ZjU4MWQtNWM0ZC00NTQxLWE1ZGMtYTAxZmQxZGNjNTEzXkEyXkFqcGdeQXVyNjMxNzQ2NTQ_._V1__d3z8fb.jpg",
-        "https://res.cloudinary.com/dakts9ect/image/upload/v1683899135/fcc-family-guys/herbert/maxresdefault_mhitnq.jpg"
+        "",
+        ""
       ],
       "occupations": [
         "Former Master of the Mystic Arts",
