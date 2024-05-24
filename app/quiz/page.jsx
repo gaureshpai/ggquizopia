@@ -14,8 +14,8 @@ import { TbArrowBigRightFilled } from 'react-icons/tb';
 import { useState, useEffect } from 'react';
 
 export default function Page() {
-  const [randomQuestion, setRandomQuestion] = useState(null); // State for storing random question
-  const [error, setError] = useState(null); // State for error handling
+  const [randomQuestion, setRandomQuestion] = useState(null); 
+  const [error, setError] = useState(null);
 
   useEffect(() => {
     async function fetchRandomQuestion() {
