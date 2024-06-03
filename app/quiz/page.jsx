@@ -24,7 +24,7 @@ export default function Page() {
         setRandomQuestion(data.randomQuestion);
       } catch (error) {
         console.error('Error fetching random question:', error);
-        setError('Failed to fetch random question.'); // Set error state
+        setError('Failed to fetch random question.');
       }
     }
     fetchRandomQuestion();
