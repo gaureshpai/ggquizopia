@@ -1,4 +1,4 @@
-# Quizopia
+# ![Quizopia Logo](https://github.com/gaureshpai/ggquizopia/raw/main/public/logo.png) Quizopia
 
 Welcome to Quizopia, a Marvel-themed quiz application that tests your knowledge about Marvel characters and their universe. This README provides an overview of the application, its structure, and instructions for setup and use.
 
