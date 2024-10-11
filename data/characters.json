@@ -77,7 +77,7 @@
       ],
       "description": "Peter Quill, known as Star-Lord, is a charming and roguish space adventurer. Leading the Guardians of the Galaxy, he navigates the cosmos with a mix of bravado and humor. Despite his rough exterior, Peter possesses a heart of gold, fighting for justice and camaraderie among the stars.",
       "age": "30s",
-      "avatar": "/pqstarlord.jpg",
+      "avatar": "/peter.png",
       "images": [
         "/peter1.jpeg",
         "/peter2.jpeg"
@@ -115,7 +115,7 @@
       "slug": "nick-fury",
       "description": "Nick Fury is the cunning and enigmatic Director of S.H.I.E.L.D., a covert intelligence agency tasked with protecting the world from supernatural threats. With his strategic brilliance and no-nonsense attitude, Fury navigates the murky waters of espionage and intrigue, always staying one step ahead of his adversaries.",
       "age": "50s",
-      "avatar": "/Fury.jpg",
+      "avatar": "/nick.png",
       "images": [
         "/eye1.webp",
         "/eye2.jpeg"
@@ -180,7 +180,7 @@
       ],
       "description": "Captain America, the Super Soldier, is a symbol of hope and resilience, embodying the ideals of patriotism and honor. Enhanced to the peak of human potential, he fights tirelessly for justice and freedom. With his indomitable spirit and unbreakable shield, Captain America inspires courage in the hearts of all who stand against tyranny.",
       "age": "100+ years (physically in his 30s)",
-      "avatar": "/Cap.jpg",
+      "avatar": "/Cap.png",
       "images": [
         "/cap1.webp",
         "/cap2.webp"
@@ -203,7 +203,7 @@
       ],
       "description": "Hank Pym, also known as Ant-Man, is a brilliant scientist and founding member of the Avengers. With his groundbreaking discovery of Pym Particles, he can shrink to the size of an ant while increasing his strength. Despite his troubled past, Hank uses his intellect and technology to fight alongside Earth's mightiest heroes, proving that even the smallest can make the biggest impact.",
       "age": "70s",
-      "avatar": "/Hank.jpg",
+      "avatar": "/hank.png",
       "images": [
         "/hank1.jpeg",
         "/hank2.jpeg"
@@ -251,7 +251,7 @@
       ],
       "description": "Groot is a gentle giant and loyal member of the Guardians of the Galaxy. As a sentient tree-like creature, he possesses immense strength and the ability to regenerate from even the most severe injuries. Though his vocabulary is limited to the phrase 'I am Groot,' Groot's actions speak volumes, demonstrating bravery and selflessness in the face of danger.",
       "age": "Unknown",
-      "avatar": "/Groot.jpeg",
+      "avatar": "/groot.png",
       "images": [
         "/groot1.jpeg",
         "/groot2.webp"
@@ -298,7 +298,7 @@
       "slug": "tyler-hayward",
       "description": "Tyler Hayward is the Director of S.W.O.R.D. (Sentient Weapon Observation and Response Division), a government agency tasked with dealing with extraterrestrial threats. He is known for his pragmatic and sometimes ruthless approach to handling dangerous situations, often putting the organization's interests above all else.",
       "age": "Late 40s",
-      "avatar": "/Tyler.webp",
+      "avatar": "/tyler.png",
       "images": [
         "/tay1.jpg",
         "/tay2.webp"
@@ -321,7 +321,7 @@
       ],
       "description": "Kaecilius is a formidable sorcerer and former member of the Masters of the Mystic Arts. Seduced by the promise of forbidden knowledge, he turned against his former allies to serve the dark entity known as Dormammu. With his mastery of dark magic and manipulation of mystical energies, Kaecilius seeks to unravel the fabric of reality itself, posing a dire threat to both Earth and the realms beyond.",
       "age": "Unknown",
-      "avatar": "/Kaecilius.webp",
+      "avatar": "/kac.png",
       "images": [
         "/kae1.jpeg",
         "/kae2.webp"
