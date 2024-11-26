@@ -23,7 +23,7 @@
     "tailwindcss": "3.4.15"
   },
   "devDependencies": {
-    "@types/node": "22.9.1",
+    "@types/node": "22.9.3",
     "@types/react": "18.3.12"
   }
 }
