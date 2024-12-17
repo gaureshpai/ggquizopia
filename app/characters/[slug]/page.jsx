@@ -49,7 +49,7 @@ export default async function Page({ params }) {
               <Image
                 className="transition-all duration-500 hover:scale-110 hover:rotate-2"
                 src={image}
-                alt=""
+                alt={character.name}
                 width={760}
                 height={435}
               />

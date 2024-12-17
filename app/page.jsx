@@ -25,7 +25,7 @@ export default async function Page() {
             >
               <Image
                 src={item.avatar}
-                alt=""
+                alt={item.name}
                 className="transition-all duration-500 hover:scale-110 hover:-rotate-2"
                 width={500}
                 height={500}
